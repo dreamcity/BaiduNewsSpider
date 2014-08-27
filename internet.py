@@ -1,5 +1,6 @@
 #encoding=utf-8
 import urllib.request as request
+from urllib.error import HTTPError
 import chardet
 import re
 import os
@@ -84,7 +85,12 @@ class InternetNews(object):
 	def getArticleFile(self):
 		for link in self.articlelink:
 			# print('link: ', link)
-			myPage = self.getPage(link)
+			try:
+				myPage = self.getPage(link)
+			except HTTPError as e:
+				pos = self.articlelink.index(link)
+				del(self.articlelink[pos])
+				continue
 			if self.codedetect != 'utf-8' and self.codedetect != 'gbk' and self.codedetect !='GB2312':
 				# print('error')
 				continue

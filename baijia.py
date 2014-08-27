@@ -1,5 +1,6 @@
 #encoding=utf-8
 import urllib.request as request
+from urllib.error import HTTPError
 import chardet
 import re
 import os
@@ -71,7 +72,13 @@ class BaijiaNews(object):
 		articlelink =  list(self.table.values())
 		# print('articlelink:',articlelink)
 		for link in articlelink:
-			myPage = self.getPage(link)
+			try:
+				myPage = self.getPage(link)
+			except HTTPError as e:
+				pos = self.articlelink.index(link)
+				del(self.articlelink[pos])
+				continue
+			
 			# myPage = myPage.replace(u'\u2022', u'')
 			pattern = re.compile(r'<title>.+</title>',re.S)
 			# title = ''.join(pattern.findall(myPage))
