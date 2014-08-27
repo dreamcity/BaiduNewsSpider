@@ -25,8 +25,8 @@ class BaijiaNews(object):
 
 	def getArticleTable(self):
 		myPage = self.getPage(self.url)
-		patten =  re.compile(r'<h3 style=.*?</h3>',re.S)
-		result = patten.findall(myPage)
+		pattern =  re.compile(r'<h3 style=.*?</h3>',re.S)
+		result = pattern.findall(myPage)
 		list_length = len(result)
 		# print(list_length)
 		line= ''.join(result)
@@ -73,18 +73,18 @@ class BaijiaNews(object):
 		for link in articlelink:
 			myPage = self.getPage(link)
 			# myPage = myPage.replace(u'\u2022', u'')
-			patten = re.compile(r'<title>.+</title>',re.S)
-			# title = ''.join(patten.findall(myPage))
+			pattern = re.compile(r'<title>.+</title>',re.S)
+			# title = ''.join(pattern.findall(myPage))
 			# title = title[7:-14]
 
-			titlelist = patten.findall(myPage)
+			titlelist = pattern.findall(myPage)
 			for i in titlelist:
 				i = i.replace(u"\u2022", u" ")
 			titletmp = ''.join(titlelist)
 
-			patten = re.compile(u'([\u2E80-\u9FFF].+[\u2E80-\u9FFF])', re.M)
-			# patten = re.compile(u'([\u4e00-\u9fa5]+)', re.M)
-			title = ''.join(patten.findall(titletmp))
+			pattern = re.compile(u'([\u2E80-\u9FFF].+[\u2E80-\u9FFF])', re.M)
+			# pattern = re.compile(u'([\u4e00-\u9fa5]+)', re.M)
+			title = ''.join(pattern.findall(titletmp))
 			title = title[:-6]
 			# title = title[7:-8]
 			print("title: ", title)
