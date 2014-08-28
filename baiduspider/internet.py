@@ -1,6 +1,9 @@
-#encoding=utf-8
+# -*- coding: utf-8 -*-
 import urllib.request as request
-from urllib.error import HTTPError
+from http.client import IncompleteRead
+from urllib.error import HTTPError , URLError
+import socket  
+import time  
 import chardet
 import re
 import os
@@ -15,6 +18,10 @@ class InternetNews(object):
 		self.articlelink = []
 
 	def getPage(self,url):
+		timeout = 10 
+		socket.setdefaulttimeout(timeout)
+		sleep_download_time = 1
+		time.sleep(sleep_download_time)
 		user_agent = 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:22.0) Gecko/20100101 Firefox/22.0'
 		headers = { 'User-Agent' : user_agent }
 		req = request.Request(url, headers = headers)
@@ -23,6 +30,7 @@ class InternetNews(object):
 		self.codedetect = chardet.detect(myPage)['encoding']
 		if self.codedetect:
 			myPage =myPage.decode(self.codedetect,'ignore')
+		myResponse.close()
 		return myPage
 
 	def saveData(self,url,title,article):
@@ -38,14 +46,13 @@ class InternetNews(object):
 			os.mkdir(str(symbol))
 		pattern = re.compile(r'[0-9]+?',re.S)
 		result= ''.join(pattern.findall(url))
-		# print('result: ', result )
 		filename ='./baidunews/internet/' + result + '.txt'
-
 		file_object = open(filename, 'w')
 		file_object.write(title)
 		file_object.write('\n')
 		file_object.write(article)
 		file_object.close()
+
 	def getLabelTable(self):
 		myPage = self.getPage(self.url)
 		pattern = re.compile(r'<div class="widget-submenu">.+?</div>', re.S)
@@ -72,27 +79,40 @@ class InternetNews(object):
 		labellink =  list(self.labelTable.values())
 		for link in labellink:
 			myPage = self.getPage(link)
-			myPage = myPage.replace(u'\u30fb', u'')
-			pattern = re.compile(r'<a href="http:.+?<span class="s">',re.M)	
-			result = ''.join(pattern.findall(myPage))
-			# print('result: ', result)
-			articlelink = []
-			pattern = re.compile(r'http:.+?"',re.M)
-			linktemp = pattern.findall(result)
-			for link in linktemp:
-		 		self.articlelink.append(link[:-1])
+			if self.codedetect != 'utf-8' and self.codedetect != 'gbk' and self.codedetect !='GB2312':
+				pass
+			else:
+				myPage = myPage.replace(u'\u30fb', u'')
+				pattern = re.compile(r'<a href="http:.+?<span class="s">',re.M)	
+				result = ''.join(pattern.findall(myPage))
+				print('list:',len(result))
+				articlelink = []
+				pattern = re.compile(r'http:.+?"',re.M)
+				linktemp = pattern.findall(result)
+				for link in linktemp:
+			 		self.articlelink.append(link[:-1])
 
 	def getArticleFile(self):
 		for link in self.articlelink:
-			# print('link: ', link)
 			try:
 				myPage = self.getPage(link)
-			except HTTPError as e:
+			except HTTPError :
+				pos = self.articlelink.index(link)
+				del(self.articlelink[pos])
+				continue
+			except URLError :
+				pos = self.articlelink.index(link)
+				del(self.articlelink[pos])
+				continue
+			except socket.timeout :
+				pos = self.articlelink.index(link)
+				del(self.articlelink[pos])
+				continue
+			except IncompleteRead :
 				pos = self.articlelink.index(link)
 				del(self.articlelink[pos])
 				continue
 			if self.codedetect != 'utf-8' and self.codedetect != 'gbk' and self.codedetect !='GB2312':
-				# print('error')
 				continue
 			else:
 				myPage = myPage.replace(u'\u30fb', u'')
@@ -102,35 +122,25 @@ class InternetNews(object):
 					title = match.group()
 					title = title[7:-8]
 					print('title: ', title)
-				article = []
-				pattern = re.compile(r'(<p>.*?</p>|<p style.*?</p>)', re.S|re.I)
-				# pattern = re.compile(r'(<P>.*?</P>|<p>.*?</p>|<p style.*?</p>)', re.S)
-				result = pattern.findall(myPage)
-				# print('result: ', result)
-				for x in result:
-					pattern = re.compile(r'.*?href="http:.*?',re.S)
-					match = pattern.match(x)
-					# print(match)
-					if match:
-						pass
-					else:		
-						pattern = re.compile(u'([\u2E80-\u9FFF]+)', re.M)
-						line = ''.join(pattern.findall(x))
-						article.append(line)
-						# print('line: ', line)
-				articlepaper = ''.join(article)
-				self.saveData(link,title,articlepaper)
+					article = []
+					pattern = re.compile(r'(<p>.*?</p>|<p style.*?</p>)', re.S|re.I)
+					result = pattern.findall(myPage)
+					for x in result:
+						pattern = re.compile(r'.*?href="http:.*?',re.S)
+						match = pattern.match(x)
+						if match:
+							pass
+						else:		
+							pattern = re.compile(u'([\u2E80-\u9FFF]+)', re.M)
+							line = ''.join(pattern.findall(x))
+							article.append(line)
+					articlepaper = ''.join(article)
+					if len(articlepaper) != 0 :
+						self.saveData(link,title,articlepaper)
+		print('get InternetNews success!!!')
 
-				# print('article: ',article)
-		print('getArticleFile success')
-
-	def getBaiduInternet(self):
+	def getInternetNews(self):
 		self.getLabelTable()
 		self.getArticleLink()
 		self.getArticleFile()
 
-url = 'http://internet.baidu.com/'
-INSpider = InternetNews(url)
-INSpider.getBaiduInternet()
-# print(INSpider.labelTable)
-# print(INSpider.articlelink)
