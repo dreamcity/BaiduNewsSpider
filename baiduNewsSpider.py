@@ -15,8 +15,11 @@ import baiduspider.auto as auto
 import baiduspider.shehui as shehui
 import baiduspider.youxi as youxi
 import baiduspider.jiaoyu as jiaoyu
+import baiduNewsXML
 
-url = 'http://news.baidu.com/'
+url = r'http://news.baidu.com/'
+inputfolder = r'./baidunews'
+outputfile = r'baidunewslist.xml'
 BDN_Spider = baidunews.BaiduNewsSpider(url)
 BDN_Spider.getClassTable()
 classTable = BDN_Spider.classTable
@@ -53,4 +56,5 @@ YouXiSpider.getYouXiNews()
 JiaoyuSpider = jiaoyu.JiaoyuNews(classTable['教育'])
 JiaoyuSpider.getJiaoyuNews()
 
-
+XD = baiduNewsXML.XMLData(inputfolder,outputfile)
+XD.getXMLFile()
