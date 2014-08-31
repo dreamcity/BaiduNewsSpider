@@ -38,13 +38,13 @@ class BaijiaNews(object):
 			pass
 		else:
 			myPage = myPage.replace(u'\u30fb', u'')
-			pattern =  re.compile(r'<h3>.*?</h3>',re.S)
+			pattern =  re.compile(r'<h3>.*?</h3>',re.M)
 			result = pattern.findall(myPage)
 			list_length = len(result)
 			print('list:',list_length)
 			line= ''.join(result)
 			for i in range(1,list_length-2):
-				p1 = re.compile(r'http.*?\d+',re.S)
+				p1 = re.compile(r'http.*?\d+',re.M)
 				linkstr = ''.join(p1.findall(result[i]))
 				self.articlelink.append(linkstr)
 	
@@ -59,7 +59,7 @@ class BaijiaNews(object):
 			pass
 		else:
 			os.mkdir(str(symbol))
-		pattern = re.compile(r'[0-9]+?',re.S)
+		pattern = re.compile(r'[0-9]+?',re.M)
 		result= ''.join(pattern.findall(url))
 		filename ='./baidunews/baijia/' + result + '.txt'
 		file_object = open(filename, 'w')
@@ -102,15 +102,15 @@ class BaijiaNews(object):
 					title = match.group()
 					title = title[7:-8]
 					print('title: ', title)
-					p1 = re.compile(r'<p class="text">.+?</p>',re.S)
+					p1 = re.compile(r'<p class="text">.+?</p>',re.M)
 					articlepart = p1.findall(myPage)
 					del(articlepart[-1])
 					article1 = []
 					for part in articlepart:
-						p2 = re.compile(u'([\u2E80-\u9FFF].+[\u2E80-\u9FFF])', re.S)
+						p2 = re.compile(u'([\u2E80-\u9FFF].+[\u2E80-\u9FFF])', re.M)
 						part2 = p2.findall(part)
 						part2str = ''.join(part2)
-						p3 = re.compile(r'<strong>.*</strong>', re.S)
+						p3 = re.compile(r'<strong>.*</strong>', re.M)
 						match = p3.match(part2str)
 						if match:
 							pass

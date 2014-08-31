@@ -26,17 +26,17 @@ class BaiduNewsSpider():
 		p1 = re.compile(r'<div id="channel-all">.*?</div>' , re.S)
 		part1 = p1.findall(myPage)
 		part1str = ''.join(part1)
-		p2 = re.compile(r'<a href=.*?</a>' , re.S)
+		p2 = re.compile(r'<a href=.*?</a>' , re.M)
 		part2 = p2.findall(part1str)
 		list_length = len(part2)
 
 		link = []
 		label = []
 		for i in range(1,list_length):
-			p3 = re.compile(r'http.*?\.com/',re.S)
+			p3 = re.compile(r'http.*?\.com/',re.M)
 			linkstr = ''.join(p3.findall(part2[i]))
 			link.append(linkstr)
-			p4 = re.compile(r'>.+?<',re.S)
+			p4 = re.compile(r'>.+?<',re.M)
 			labelstr = ''.join(p4.findall(part2[i]))
 			label.append(labelstr[1:-1])   
 		self.classTable = dict(zip(label,link))

@@ -43,7 +43,7 @@ class TechNews(object):
 			pass
 		else:
 			os.mkdir(str(symbol))
-		pattern = re.compile(r'[0-9]+?',re.S)
+		pattern = re.compile(r'[0-9]+?',re.M)
 		result= ''.join(pattern.findall(url))
 		filename ='./baidunews/tech/' + result + '.txt'
 		file_object = open(filename, 'w')
@@ -95,16 +95,17 @@ class TechNews(object):
 				myPage = myPage.replace(u'\u3000', u'')
 				myPage = myPage.replace(u'\u2022', u'')	
 				myPage = myPage.replace(u'\u200b', u'')
+				pattern = re.compile(r'<title>.*?</title>',re.M)
 				match = pattern.search(myPage)
 				if match:
 					title = match.group()
 					title = title[7:-8]
 					print('title: ', title)
 					article = []
-					pattern = re.compile(r'(<p>.*?</p>|<p style.*?</p>)', re.S|re.I)
+					pattern = re.compile(r'(<p>.*?</p>|<p style.*?</p>)', re.M|re.I)
 					result = pattern.findall(myPage)
 					for x in result:
-						pattern = re.compile(r'.*?href="http:.*?',re.S)
+						pattern = re.compile(r'.*?href="http:.*?',re.M)
 						match = pattern.match(x)
 						if match:
 							pass

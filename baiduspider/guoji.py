@@ -43,7 +43,7 @@ class GuoJiNews(object):
 			pass
 		else:
 			os.mkdir(str(symbol))
-		pattern = re.compile(r'[0-9]+?',re.S)
+		pattern = re.compile(r'[0-9]+?',re.M)
 		result= ''.join(pattern.findall(url))
 		filename ='./baidunews/guoji/' + result + '.txt'
 		file_object = open(filename, 'w')
@@ -102,10 +102,10 @@ class GuoJiNews(object):
 					title = title[7:-8]
 					print('title: ', title)
 					article = []
-					patten = re.compile(r'(<p>.*?</p>|<p style.*?</p>)', re.S|re.I)
+					patten = re.compile(r'(<p>.*?</p>|<p style.*?</p>)', re.M|re.I)
 					result = patten.findall(myPage)
 					for x in result:
-						patten = re.compile(r'.*?href="http:.*?',re.S)
+						patten = re.compile(r'.*?href="http:.*?',re.M)
 						match = patten.match(x)
 						if match:
 							pass
