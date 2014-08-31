@@ -5,8 +5,10 @@
 	<classtype>
 		<auto>
 			<label>0</label>
+			<li>./baidunews\auto\0012014083139431.txt</li>
 			<li>./baidunews\auto\07552014082872498505688.txt</li>
 			<li>./baidunews\auto\12014082733913.txt</li>
+			<li>./baidunews\auto\1318318973.txt</li>
 			<li>./baidunews\auto\135820140828417206383.txt</li>
 			<li>./baidunews\auto\135820140828417206433.txt</li>
 			<li>./baidunews\auto\140827148271539051.txt</li>
@@ -43,6 +45,7 @@
 			<li>./baidunews\auto\20140816592071.txt</li>
 			<li>./baidunews\auto\20140816592251.txt</li>
 			<li>./baidunews\auto\20140816592451.txt</li>
+			<li>./baidunews\auto\20140816603011.txt</li>
 			<li>./baidunews\auto\201408201408264493796.txt</li>
 			<li>./baidunews\auto\20140820140826516302740.txt</li>
 			<li>./baidunews\auto\201408201408274494920.txt</li>
@@ -118,6 +121,33 @@
 			<li>./baidunews\auto\201408286541407.txt</li>
 			<li>./baidunews\auto\201408286541783.txt</li>
 			<li>./baidunews\auto\201408287062388.txt</li>
+			<li>./baidunews\auto\2014082913665725562079.txt</li>
+			<li>./baidunews\auto\2014082913665725562261.txt</li>
+			<li>./baidunews\auto\2014082920087122146654.txt</li>
+			<li>./baidunews\auto\2014082936410125564705.txt</li>
+			<li>./baidunews\auto\20140830007248.txt</li>
+			<li>./baidunews\auto\20140831005139.txt</li>
+			<li>./baidunews\auto\20140831006267.txt</li>
+			<li>./baidunews\auto\20140831010055.txt</li>
+			<li>./baidunews\auto\201408310306478615.txt</li>
+			<li>./baidunews\auto\20140831100265627.txt</li>
+			<li>./baidunews\auto\20140831100266311.txt</li>
+			<li>./baidunews\auto\20140831100525574067.txt</li>
+			<li>./baidunews\auto\20140831105325573772.txt</li>
+			<li>./baidunews\auto\201408311485637.txt</li>
+			<li>./baidunews\auto\2014083115727825572536.txt</li>
+			<li>./baidunews\auto\20140831168040011.txt</li>
+			<li>./baidunews\auto\20140831168044073.txt</li>
+			<li>./baidunews\auto\20140831168044242.txt</li>
+			<li>./baidunews\auto\20140831168046879.txt</li>
+			<li>./baidunews\auto\20140831168046951.txt</li>
+			<li>./baidunews\auto\20140831168048375.txt</li>
+			<li>./baidunews\auto\20140831168048480.txt</li>
+			<li>./baidunews\auto\20140831168049018.txt</li>
+			<li>./baidunews\auto\20140831168049315.txt</li>
+			<li>./baidunews\auto\201408311706478830.txt</li>
+			<li>./baidunews\auto\201408317073125572301.txt</li>
+			<li>./baidunews\auto\20140835570.txt</li>
 			<li>./baidunews\auto\2014083749532.txt</li>
 			<li>./baidunews\auto\2014083749654.txt</li>
 			<li>./baidunews\auto\2014083750899.txt</li>
@@ -149,6 +179,26 @@
 			<li>./baidunews\auto\2014083778534.txt</li>
 			<li>./baidunews\auto\2014083779413.txt</li>
 			<li>./baidunews\auto\2014083779424.txt</li>
+			<li>./baidunews\auto\2014083784848.txt</li>
+			<li>./baidunews\auto\2014083787343.txt</li>
+			<li>./baidunews\auto\2014083787663.txt</li>
+			<li>./baidunews\auto\2014083788344.txt</li>
+			<li>./baidunews\auto\2014083789804.txt</li>
+			<li>./baidunews\auto\2014083814466.txt</li>
+			<li>./baidunews\auto\2014083814887.txt</li>
+			<li>./baidunews\auto\2014083814996.txt</li>
+			<li>./baidunews\auto\2014083815197.txt</li>
+			<li>./baidunews\auto\2014083815254.txt</li>
+			<li>./baidunews\auto\2014083815301.txt</li>
+			<li>./baidunews\auto\2014083815320.txt</li>
+			<li>./baidunews\auto\2014083815577.txt</li>
+			<li>./baidunews\auto\2014083816052.txt</li>
+			<li>./baidunews\auto\2014083816143.txt</li>
+			<li>./baidunews\auto\2014083816302.txt</li>
+			<li>./baidunews\auto\2014083816718.txt</li>
+			<li>./baidunews\auto\2014083816812.txt</li>
+			<li>./baidunews\auto\2014083817032.txt</li>
+			<li>./baidunews\auto\2014083817244.txt</li>
 			<li>./baidunews\auto\201408836504.txt</li>
 			<li>./baidunews\auto\201408836813.txt</li>
 			<li>./baidunews\auto\201408836828.txt</li>
@@ -158,6 +208,11 @@
 			<li>./baidunews\auto\201408836869.txt</li>
 			<li>./baidunews\auto\201408836875.txt</li>
 			<li>./baidunews\auto\201408836882.txt</li>
+			<li>./baidunews\auto\201408837451.txt</li>
+			<li>./baidunews\auto\201408837593.txt</li>
+			<li>./baidunews\auto\201408837597.txt</li>
+			<li>./baidunews\auto\201408837660.txt</li>
+			<li>./baidunews\auto\201408837697.txt</li>
 			<li>./baidunews\auto\201410301706477938.txt</li>
 			<li>./baidunews\auto\22014082768280.txt</li>
 			<li>./baidunews\auto\22014082768282.txt</li>
@@ -165,11 +220,16 @@
 			<li>./baidunews\auto\22014082868306.txt</li>
 			<li>./baidunews\auto\22014082868317.txt</li>
 			<li>./baidunews\auto\22014082868322.txt</li>
+			<li>./baidunews\auto\22014083168374.txt</li>
 			<li>./baidunews\auto\36520140828014194456.txt</li>
 			<li>./baidunews\auto\5035031197.txt</li>
+			<li>./baidunews\auto\529459.txt</li>
 			<li>./baidunews\auto\5514816.txt</li>
+			<li>./baidunews\auto\5514937.txt</li>
 			<li>./baidunews\auto\720140827107417728.txt</li>
 			<li>./baidunews\auto\720140827107434362.txt</li>
+			<li>./baidunews\auto\7201408311076214912.txt</li>
+			<li>./baidunews\auto\720140831107625731.txt</li>
 		</auto>
 		<baijia>
 			<label>1</label>
@@ -267,6 +327,58 @@
 			<li>./baidunews\baijia\27611.txt</li>
 			<li>./baidunews\baijia\27613.txt</li>
 			<li>./baidunews\baijia\27615.txt</li>
+			<li>./baidunews\baijia\27652.txt</li>
+			<li>./baidunews\baijia\27664.txt</li>
+			<li>./baidunews\baijia\27668.txt</li>
+			<li>./baidunews\baijia\27684.txt</li>
+			<li>./baidunews\baijia\27692.txt</li>
+			<li>./baidunews\baijia\27699.txt</li>
+			<li>./baidunews\baijia\27705.txt</li>
+			<li>./baidunews\baijia\27709.txt</li>
+			<li>./baidunews\baijia\27713.txt</li>
+			<li>./baidunews\baijia\27717.txt</li>
+			<li>./baidunews\baijia\27720.txt</li>
+			<li>./baidunews\baijia\27726.txt</li>
+			<li>./baidunews\baijia\27730.txt</li>
+			<li>./baidunews\baijia\27737.txt</li>
+			<li>./baidunews\baijia\27741.txt</li>
+			<li>./baidunews\baijia\27753.txt</li>
+			<li>./baidunews\baijia\27758.txt</li>
+			<li>./baidunews\baijia\27763.txt</li>
+			<li>./baidunews\baijia\27764.txt</li>
+			<li>./baidunews\baijia\27765.txt</li>
+			<li>./baidunews\baijia\27766.txt</li>
+			<li>./baidunews\baijia\27769.txt</li>
+			<li>./baidunews\baijia\27772.txt</li>
+			<li>./baidunews\baijia\27776.txt</li>
+			<li>./baidunews\baijia\27777.txt</li>
+			<li>./baidunews\baijia\27780.txt</li>
+			<li>./baidunews\baijia\27786.txt</li>
+			<li>./baidunews\baijia\27787.txt</li>
+			<li>./baidunews\baijia\27789.txt</li>
+			<li>./baidunews\baijia\27795.txt</li>
+			<li>./baidunews\baijia\27802.txt</li>
+			<li>./baidunews\baijia\27807.txt</li>
+			<li>./baidunews\baijia\27818.txt</li>
+			<li>./baidunews\baijia\27819.txt</li>
+			<li>./baidunews\baijia\27823.txt</li>
+			<li>./baidunews\baijia\27828.txt</li>
+			<li>./baidunews\baijia\27829.txt</li>
+			<li>./baidunews\baijia\27830.txt</li>
+			<li>./baidunews\baijia\27835.txt</li>
+			<li>./baidunews\baijia\27836.txt</li>
+			<li>./baidunews\baijia\27837.txt</li>
+			<li>./baidunews\baijia\27839.txt</li>
+			<li>./baidunews\baijia\27840.txt</li>
+			<li>./baidunews\baijia\27841.txt</li>
+			<li>./baidunews\baijia\27842.txt</li>
+			<li>./baidunews\baijia\27843.txt</li>
+			<li>./baidunews\baijia\27844.txt</li>
+			<li>./baidunews\baijia\27845.txt</li>
+			<li>./baidunews\baijia\27847.txt</li>
+			<li>./baidunews\baijia\27848.txt</li>
+			<li>./baidunews\baijia\27849.txt</li>
+			<li>./baidunews\baijia\27853.txt</li>
 		</baijia>
 		<fangchan>
 			<label>2</label>
@@ -333,12 +445,33 @@
 			<li>./baidunews\fangchan\0302090822618037.txt</li>
 			<li>./baidunews\fangchan\0302090822618068.txt</li>
 			<li>./baidunews\fangchan\0302090822618162.txt</li>
+			<li>./baidunews\fangchan\0302090822618174.txt</li>
+			<li>./baidunews\fangchan\0302090822618196.txt</li>
 			<li>./baidunews\fangchan\0302090822618216.txt</li>
 			<li>./baidunews\fangchan\0302090822618236.txt</li>
 			<li>./baidunews\fangchan\0302090822618250.txt</li>
 			<li>./baidunews\fangchan\0302090822618373.txt</li>
 			<li>./baidunews\fangchan\0302090822618399.txt</li>
 			<li>./baidunews\fangchan\0302090822618408.txt</li>
+			<li>./baidunews\fangchan\0302090822619977.txt</li>
+			<li>./baidunews\fangchan\0302090822620375.txt</li>
+			<li>./baidunews\fangchan\0302090822620434.txt</li>
+			<li>./baidunews\fangchan\0302090822620482.txt</li>
+			<li>./baidunews\fangchan\0302090822620487.txt</li>
+			<li>./baidunews\fangchan\0302090822620499.txt</li>
+			<li>./baidunews\fangchan\0302090822620931.txt</li>
+			<li>./baidunews\fangchan\0302090822620932.txt</li>
+			<li>./baidunews\fangchan\0302090822620934.txt</li>
+			<li>./baidunews\fangchan\0302090822620937.txt</li>
+			<li>./baidunews\fangchan\0302090822620939.txt</li>
+			<li>./baidunews\fangchan\0302090822620941.txt</li>
+			<li>./baidunews\fangchan\0302090822620944.txt</li>
+			<li>./baidunews\fangchan\0302090822620947.txt</li>
+			<li>./baidunews\fangchan\0302090822620948.txt</li>
+			<li>./baidunews\fangchan\0302090822620949.txt</li>
+			<li>./baidunews\fangchan\0302090822620958.txt</li>
+			<li>./baidunews\fangchan\0302090822620961.txt</li>
+			<li>./baidunews\fangchan\1050192319917673.txt</li>
 			<li>./baidunews\fangchan\109408.txt</li>
 			<li>./baidunews\fangchan\112368.txt</li>
 			<li>./baidunews\fangchan\1220138319785594.txt</li>
@@ -349,11 +482,19 @@
 			<li>./baidunews\fangchan\141482.txt</li>
 			<li>./baidunews\fangchan\141484.txt</li>
 			<li>./baidunews\fangchan\141542.txt</li>
+			<li>./baidunews\fangchan\141602.txt</li>
+			<li>./baidunews\fangchan\141615.txt</li>
+			<li>./baidunews\fangchan\16314083017433002534.txt</li>
+			<li>./baidunews\fangchan\1631408310949002534.txt</li>
 			<li>./baidunews\fangchan\180483.txt</li>
 			<li>./baidunews\fangchan\2000510319876715.txt</li>
 			<li>./baidunews\fangchan\20140820140827712096.txt</li>
 			<li>./baidunews\fangchan\20140820140828714089.txt</li>
 			<li>./baidunews\fangchan\20140820140828717305.txt</li>
+			<li>./baidunews\fangchan\20140820140829720968.txt</li>
+			<li>./baidunews\fangchan\20140820140830722650.txt</li>
+			<li>./baidunews\fangchan\20140820140831221944.txt</li>
+			<li>./baidunews\fangchan\20140820140831723909.txt</li>
 			<li>./baidunews\fangchan\201408220001812028872310.txt</li>
 			<li>./baidunews\fangchan\2014082457323336148.txt</li>
 			<li>./baidunews\fangchan\201408255439394.txt</li>
@@ -407,6 +548,7 @@
 			<li>./baidunews\fangchan\20140828100207309.txt</li>
 			<li>./baidunews\fangchan\20140828100207315.txt</li>
 			<li>./baidunews\fangchan\20140828100207326.txt</li>
+			<li>./baidunews\fangchan\20140828100212721.txt</li>
 			<li>./baidunews\fangchan\20140828100219459.txt</li>
 			<li>./baidunews\fangchan\2014082811022886327.txt</li>
 			<li>./baidunews\fangchan\2014082812384410145.txt</li>
@@ -435,6 +577,7 @@
 			<li>./baidunews\fangchan\20140828403848075.txt</li>
 			<li>./baidunews\fangchan\20140828403865806.txt</li>
 			<li>./baidunews\fangchan\201408285421910.txt</li>
+			<li>./baidunews\fangchan\201408285455084.txt</li>
 			<li>./baidunews\fangchan\201408285458682.txt</li>
 			<li>./baidunews\fangchan\201408285458705.txt</li>
 			<li>./baidunews\fangchan\201408285458719.txt</li>
@@ -457,19 +600,67 @@
 			<li>./baidunews\fangchan\201408286541114.txt</li>
 			<li>./baidunews\fangchan\201408286541811.txt</li>
 			<li>./baidunews\fangchan\201408286542117.txt</li>
+			<li>./baidunews\fangchan\2014082913665725567940.txt</li>
+			<li>./baidunews\fangchan\201408295465084.txt</li>
+			<li>./baidunews\fangchan\20140830125911257860.txt</li>
+			<li>./baidunews\fangchan\2014083017284415350.txt</li>
+			<li>./baidunews\fangchan\2014083030861.txt</li>
+			<li>./baidunews\fangchan\2014083030868.txt</li>
+			<li>./baidunews\fangchan\2014083030872.txt</li>
+			<li>./baidunews\fangchan\20140830494540.txt</li>
+			<li>./baidunews\fangchan\201408305465677.txt</li>
+			<li>./baidunews\fangchan\20140831013297054.txt</li>
+			<li>./baidunews\fangchan\20140831016866.txt</li>
+			<li>./baidunews\fangchan\20140831052010134.txt</li>
+			<li>./baidunews\fangchan\20140831055951326.txt</li>
+			<li>./baidunews\fangchan\20140831100267214.txt</li>
+			<li>./baidunews\fangchan\20140831100268122.txt</li>
+			<li>./baidunews\fangchan\20140831100268132.txt</li>
+			<li>./baidunews\fangchan\2014083110384415843.txt</li>
+			<li>./baidunews\fangchan\2014083116582889735.txt</li>
+			<li>./baidunews\fangchan\20140831168040848.txt</li>
+			<li>./baidunews\fangchan\20140831168048046.txt</li>
+			<li>./baidunews\fangchan\20140831168049147.txt</li>
+			<li>./baidunews\fangchan\2014083117114415942.txt</li>
+			<li>./baidunews\fangchan\2014083117434415950.txt</li>
+			<li>./baidunews\fangchan\2014083117504415953.txt</li>
+			<li>./baidunews\fangchan\20140831403923777.txt</li>
+			<li>./baidunews\fangchan\201408315467262.txt</li>
+			<li>./baidunews\fangchan\201408315467592.txt</li>
+			<li>./baidunews\fangchan\201408315467657.txt</li>
+			<li>./baidunews\fangchan\201408315467706.txt</li>
+			<li>./baidunews\fangchan\201408315467723.txt</li>
+			<li>./baidunews\fangchan\201408315467736.txt</li>
+			<li>./baidunews\fangchan\201408315467738.txt</li>
+			<li>./baidunews\fangchan\201408315467739.txt</li>
+			<li>./baidunews\fangchan\201408315467740.txt</li>
+			<li>./baidunews\fangchan\201408316547417.txt</li>
+			<li>./baidunews\fangchan\2014083195628.txt</li>
+			<li>./baidunews\fangchan\20140834324.txt</li>
+			<li>./baidunews\fangchan\2014829193840.txt</li>
 			<li>./baidunews\fangchan\20327.txt</li>
 			<li>./baidunews\fangchan\21149.txt</li>
 			<li>./baidunews\fangchan\248924891.txt</li>
+			<li>./baidunews\fangchan\281331.txt</li>
+			<li>./baidunews\fangchan\281336.txt</li>
+			<li>./baidunews\fangchan\281340.txt</li>
+			<li>./baidunews\fangchan\281345.txt</li>
+			<li>./baidunews\fangchan\281354.txt</li>
 			<li>./baidunews\fangchan\329140827634.txt</li>
 			<li>./baidunews\fangchan\33378201408261189836242.txt</li>
 			<li>./baidunews\fangchan\3353020140828899843151.txt</li>
+			<li>./baidunews\fangchan\38252014083174849847141.txt</li>
 			<li>./baidunews\fangchan\401223821.txt</li>
+			<li>./baidunews\fangchan\607.txt</li>
 			<li>./baidunews\fangchan\84068.txt</li>
 			<li>./baidunews\fangchan\92453.txt</li>
 			<li>./baidunews\fangchan\95161.txt</li>
 		</fangchan>
 		<finance>
 			<label>3</label>
+			<li>./baidunews\finance\08201408311378540.txt</li>
+			<li>./baidunews\finance\08201408311378555.txt</li>
+			<li>./baidunews\finance\1004592.txt</li>
 			<li>./baidunews\finance\1020140827475476.txt</li>
 			<li>./baidunews\finance\1020140827475494.txt</li>
 			<li>./baidunews\finance\1020140827475626.txt</li>
@@ -479,6 +670,7 @@
 			<li>./baidunews\finance\135020140828417565456.txt</li>
 			<li>./baidunews\finance\135020140828417643682.txt</li>
 			<li>./baidunews\finance\135320140827417095549.txt</li>
+			<li>./baidunews\finance\137420140830418373238.txt</li>
 			<li>./baidunews\finance\140620140828417562426.txt</li>
 			<li>./baidunews\finance\1408281635168592385.txt</li>
 			<li>./baidunews\finance\1408285693.txt</li>
@@ -497,13 +689,23 @@
 			<li>./baidunews\finance\1631408281547002541.txt</li>
 			<li>./baidunews\finance\16314082818400251.txt</li>
 			<li>./baidunews\finance\163140828204400254.txt</li>
+			<li>./baidunews\finance\16314082915401002541.txt</li>
+			<li>./baidunews\finance\16314083114501400251.txt</li>
+			<li>./baidunews\finance\1631408311550444002552.txt</li>
+			<li>./baidunews\finance\1631408311550544002552.txt</li>
+			<li>./baidunews\finance\1631408311650730025250.txt</li>
+			<li>./baidunews\finance\1631408311650890025250.txt</li>
 			<li>./baidunews\finance\1965389.txt</li>
+			<li>./baidunews\finance\20005.txt</li>
 			<li>./baidunews\finance\201408011632536050080796208.txt</li>
+			<li>./baidunews\finance\2014080137584640789237798066.txt</li>
 			<li>./baidunews\finance\2014080140806440039744802.txt</li>
 			<li>./baidunews\finance\20140801931726240544240242262.txt</li>
 			<li>./baidunews\finance\201408201408284496657.txt</li>
 			<li>./baidunews\finance\201408201408285682266.txt</li>
 			<li>./baidunews\finance\20140820140828773507.txt</li>
+			<li>./baidunews\finance\2014082014082910934203.txt</li>
+			<li>./baidunews\finance\20140820140829720968.txt</li>
 			<li>./baidunews\finance\201408262722161.txt</li>
 			<li>./baidunews\finance\20140826403789949.txt</li>
 			<li>./baidunews\finance\201408267180847.txt</li>
@@ -653,13 +855,77 @@
 			<li>./baidunews\finance\201408287073125553318.txt</li>
 			<li>./baidunews\finance\201408287073125561138.txt</li>
 			<li>./baidunews\finance\201408287166125556767.txt</li>
+			<li>./baidunews\finance\2014082912859451.txt</li>
+			<li>./baidunews\finance\20140829297521.txt</li>
+			<li>./baidunews\finance\20140829403876615.txt</li>
+			<li>./baidunews\finance\20140830043020167269.txt</li>
+			<li>./baidunews\finance\20140830100261990.txt</li>
+			<li>./baidunews\finance\20140830168021099.txt</li>
+			<li>./baidunews\finance\20140830168023071.txt</li>
+			<li>./baidunews\finance\20140830168032661.txt</li>
+			<li>./baidunews\finance\20140830168035982.txt</li>
+			<li>./baidunews\finance\20140830168038515.txt</li>
+			<li>./baidunews\finance\2014083028482654.txt</li>
+			<li>./baidunews\finance\2014083028483488.txt</li>
+			<li>./baidunews\finance\2014083028487517.txt</li>
+			<li>./baidunews\finance\2014083028487990.txt</li>
+			<li>./baidunews\finance\2014083028490394.txt</li>
+			<li>./baidunews\finance\20140830403917688.txt</li>
+			<li>./baidunews\finance\201408305465494.txt</li>
+			<li>./baidunews\finance\201408305466693.txt</li>
+			<li>./baidunews\finance\20140830859961.txt</li>
+			<li>./baidunews\finance\2014083100000350.txt</li>
+			<li>./baidunews\finance\2014083100000398.txt</li>
+			<li>./baidunews\finance\2014083100000412.txt</li>
+			<li>./baidunews\finance\20140831100264010.txt</li>
+			<li>./baidunews\finance\20140831100265628.txt</li>
+			<li>./baidunews\finance\20140831100267978.txt</li>
+			<li>./baidunews\finance\20140831100268093.txt</li>
+			<li>./baidunews\finance\20140831100425572518.txt</li>
+			<li>./baidunews\finance\20140831103416275.txt</li>
+			<li>./baidunews\finance\2014083111164415857.txt</li>
+			<li>./baidunews\finance\2014083112920446.txt</li>
+			<li>./baidunews\finance\2014083114851328.txt</li>
+			<li>./baidunews\finance\20140831152420171825.txt</li>
+			<li>./baidunews\finance\20140831152920171839.txt</li>
+			<li>./baidunews\finance\20140831154320171858.txt</li>
+			<li>./baidunews\finance\2014083115727825572291.txt</li>
+			<li>./baidunews\finance\20140831163920171977.txt</li>
+			<li>./baidunews\finance\20140831168042656.txt</li>
+			<li>./baidunews\finance\20140831168047992.txt</li>
+			<li>./baidunews\finance\20140831168048028.txt</li>
+			<li>./baidunews\finance\20140831168048373.txt</li>
+			<li>./baidunews\finance\20140831168048389.txt</li>
+			<li>./baidunews\finance\20140831168048532.txt</li>
+			<li>./baidunews\finance\20140831168048575.txt</li>
+			<li>./baidunews\finance\2014083118844472.txt</li>
+			<li>./baidunews\finance\2014083118844487.txt</li>
+			<li>./baidunews\finance\201408312647261.txt</li>
+			<li>./baidunews\finance\201408312647404.txt</li>
+			<li>./baidunews\finance\201408312732323.txt</li>
+			<li>./baidunews\finance\2014083128494619.txt</li>
+			<li>./baidunews\finance\2014083128495064.txt</li>
+			<li>./baidunews\finance\2014083128499081.txt</li>
+			<li>./baidunews\finance\2014083133387164.txt</li>
+			<li>./baidunews\finance\2014083134564621029039.txt</li>
+			<li>./baidunews\finance\20140831403926101.txt</li>
+			<li>./baidunews\finance\201408314157025573748.txt</li>
+			<li>./baidunews\finance\20140831417998030.txt</li>
+			<li>./baidunews\finance\20140831485991.txt</li>
+			<li>./baidunews\finance\201408317073125573752.txt</li>
+			<li>./baidunews\finance\201408317073125573806.txt</li>
+			<li>./baidunews\finance\201408318284622162324.txt</li>
 			<li>./baidunews\finance\201408388519.txt</li>
 			<li>./baidunews\finance\2014201408282643315.txt</li>
 			<li>./baidunews\finance\2014201408282643322.txt</li>
 			<li>./baidunews\finance\2014201408282643341.txt</li>
+			<li>./baidunews\finance\201482154553.txt</li>
 			<li>./baidunews\finance\20148287856790570961003441579471.txt</li>
+			<li>./baidunews\finance\2014867321.txt</li>
 			<li>./baidunews\finance\25014082761217.txt</li>
 			<li>./baidunews\finance\258140827238580.txt</li>
+			<li>./baidunews\finance\26884.txt</li>
+			<li>./baidunews\finance\272420390.txt</li>
 			<li>./baidunews\finance\2729058.txt</li>
 			<li>./baidunews\finance\27410.txt</li>
 			<li>./baidunews\finance\27465.txt</li>
@@ -670,19 +936,24 @@
 			<li>./baidunews\finance\29178.txt</li>
 			<li>./baidunews\finance\300552014082854049841248.txt</li>
 			<li>./baidunews\finance\420712014082753114669678.txt</li>
+			<li>./baidunews\finance\420712014083160714673706.txt</li>
 			<li>./baidunews\finance\51128841.txt</li>
 			<li>./baidunews\finance\520140820140828741796.txt</li>
+			<li>./baidunews\finance\618201408201408315619881.txt</li>
 			<li>./baidunews\finance\934262.txt</li>
+			<li>./baidunews\finance\9920140830271807941.txt</li>
 		</finance>
 		<guoji>
 			<label>4</label>
 			<li>./baidunews\guoji\1318318796.txt</li>
 			<li>./baidunews\guoji\176420140828417618634.txt</li>
+			<li>./baidunews\guoji\176420140831418419592.txt</li>
 			<li>./baidunews\guoji\184438456830.txt</li>
 			<li>./baidunews\guoji\20140820140826708563.txt</li>
 			<li>./baidunews\guoji\201408201408284496597.txt</li>
 			<li>./baidunews\guoji\20140820140828516332898.txt</li>
 			<li>./baidunews\guoji\20140820140828714979.txt</li>
+			<li>./baidunews\guoji\20140820140829718559.txt</li>
 			<li>./baidunews\guoji\20140825167828248.txt</li>
 			<li>./baidunews\guoji\20140826076985.txt</li>
 			<li>./baidunews\guoji\20140827052720130782.txt</li>
@@ -721,17 +992,40 @@
 			<li>./baidunews\guoji\201408286541898.txt</li>
 			<li>./baidunews\guoji\201408286541993.txt</li>
 			<li>./baidunews\guoji\201408286542012.txt</li>
+			<li>./baidunews\guoji\20140829004850.txt</li>
+			<li>./baidunews\guoji\20140830055950523.txt</li>
+			<li>./baidunews\guoji\201408307629160.txt</li>
+			<li>./baidunews\guoji\20140831003850.txt</li>
+			<li>./baidunews\guoji\20140831012117425.txt</li>
+			<li>./baidunews\guoji\20140831100225572071.txt</li>
+			<li>./baidunews\guoji\2014083115727825574029.txt</li>
+			<li>./baidunews\guoji\2014083115727825574030.txt</li>
+			<li>./baidunews\guoji\201408313032034.txt</li>
+			<li>./baidunews\guoji\20140831480421.txt</li>
+			<li>./baidunews\guoji\20140831480430.txt</li>
+			<li>./baidunews\guoji\20140831486084.txt</li>
+			<li>./baidunews\guoji\20140831486106.txt</li>
+			<li>./baidunews\guoji\201408317640529.txt</li>
 			<li>./baidunews\guoji\2014085118826.txt</li>
 			<li>./baidunews\guoji\2014085120114.txt</li>
 			<li>./baidunews\guoji\2014085120901.txt</li>
+			<li>./baidunews\guoji\20142014083116167316324.txt</li>
 			<li>./baidunews\guoji\3272014082718741608.txt</li>
 			<li>./baidunews\guoji\352201408283917291.txt</li>
+			<li>./baidunews\guoji\412802014082975114671492.txt</li>
 			<li>./baidunews\guoji\420712014082673114667881.txt</li>
 			<li>./baidunews\guoji\420712014082766114668485.txt</li>
 			<li>./baidunews\guoji\420712014082875514671265.txt</li>
+			<li>./baidunews\guoji\420712014082966114671452.txt</li>
+			<li>./baidunews\guoji\445712014082978514671715.txt</li>
+			<li>./baidunews\guoji\618201408201408315619372.txt</li>
+			<li>./baidunews\guoji\61837057201408201408305618523.txt</li>
+			<li>./baidunews\guoji\61837057201408201408315619860.txt</li>
 		</guoji>
 		<guonei>
 			<label>5</label>
+			<li>./baidunews\guonei\1020140831480547.txt</li>
+			<li>./baidunews\guonei\201408129221.txt</li>
 			<li>./baidunews\guonei\20140820140825701944.txt</li>
 			<li>./baidunews\guonei\20140820140827712543.txt</li>
 			<li>./baidunews\guonei\20140820140827713028.txt</li>
@@ -746,6 +1040,7 @@
 			<li>./baidunews\guonei\20140820140828717415.txt</li>
 			<li>./baidunews\guonei\20140820140828717458.txt</li>
 			<li>./baidunews\guonei\20140820140828717460.txt</li>
+			<li>./baidunews\guonei\20140820140831221943.txt</li>
 			<li>./baidunews\guonei\2014082523260121004859.txt</li>
 			<li>./baidunews\guonei\20140826001484950.txt</li>
 			<li>./baidunews\guonei\201408261112227475.txt</li>
@@ -833,16 +1128,58 @@
 			<li>./baidunews\guonei\201408288284622135037.txt</li>
 			<li>./baidunews\guonei\20140828831138.txt</li>
 			<li>./baidunews\guonei\201408288635658948.txt</li>
+			<li>./baidunews\guonei\20140829027881.txt</li>
+			<li>./baidunews\guonei\2014082910451025565819.txt</li>
+			<li>./baidunews\guonei\2014082918310589.txt</li>
+			<li>./baidunews\guonei\201408301302077.txt</li>
+			<li>./baidunews\guonei\201408301302642.txt</li>
+			<li>./baidunews\guonei\201408301409413429854690.txt</li>
+			<li>./baidunews\guonei\2014083030860.txt</li>
+			<li>./baidunews\guonei\2014083036496422157206.txt</li>
+			<li>./baidunews\guonei\2014083036496422158174.txt</li>
+			<li>./baidunews\guonei\2014083036496422158206.txt</li>
+			<li>./baidunews\guonei\20140831011686091.txt</li>
+			<li>./baidunews\guonei\20140831020230333.txt</li>
+			<li>./baidunews\guonei\201408311302861.txt</li>
+			<li>./baidunews\guonei\201408311302868.txt</li>
+			<li>./baidunews\guonei\201408311302924.txt</li>
+			<li>./baidunews\guonei\201408311302932.txt</li>
+			<li>./baidunews\guonei\201408311302943.txt</li>
+			<li>./baidunews\guonei\201408311870749.txt</li>
+			<li>./baidunews\guonei\20140831262469.txt</li>
+			<li>./baidunews\guonei\2014083131843491.txt</li>
+			<li>./baidunews\guonei\2014083136496422161680.txt</li>
+			<li>./baidunews\guonei\2014083136496422161752.txt</li>
+			<li>./baidunews\guonei\20140831435709.txt</li>
+			<li>./baidunews\guonei\20140831435716.txt</li>
+			<li>./baidunews\guonei\201408316547424.txt</li>
+			<li>./baidunews\guonei\201408316547536.txt</li>
+			<li>./baidunews\guonei\201408316547544.txt</li>
+			<li>./baidunews\guonei\201408316547554.txt</li>
+			<li>./baidunews\guonei\201408317073125573969.txt</li>
+			<li>./baidunews\guonei\201408318283922162587.txt</li>
+			<li>./baidunews\guonei\201408318284022162300.txt</li>
+			<li>./baidunews\guonei\201408318284022162779.txt</li>
+			<li>./baidunews\guonei\201408318284022162860.txt</li>
+			<li>./baidunews\guonei\201408318284022162915.txt</li>
+			<li>./baidunews\guonei\201408318284122162940.txt</li>
 			<li>./baidunews\guonei\2014084045991.txt</li>
 			<li>./baidunews\guonei\2014084046065.txt</li>
 			<li>./baidunews\guonei\267613.txt</li>
 			<li>./baidunews\guonei\288742014082781669839498.txt</li>
+			<li>./baidunews\guonei\311408319341739.txt</li>
 			<li>./baidunews\guonei\38252014082734839837143.txt</li>
 			<li>./baidunews\guonei\38252014082780459839922.txt</li>
 			<li>./baidunews\guonei\38252014082780459839930.txt</li>
 			<li>./baidunews\guonei\38252014082880459840162.txt</li>
 			<li>./baidunews\guonei\38252014082887459840702.txt</li>
 			<li>./baidunews\guonei\38252014082887459840744.txt</li>
+			<li>./baidunews\guonei\38252014083080459846685.txt</li>
+			<li>./baidunews\guonei\38252014083174849847161.txt</li>
+			<li>./baidunews\guonei\38252014083174849847166.txt</li>
+			<li>./baidunews\guonei\38252014083180459846734.txt</li>
+			<li>./baidunews\guonei\62201408314823616829.txt</li>
+			<li>./baidunews\guonei\62201408318823146495784.txt</li>
 			<li>./baidunews\guonei\9452014082818745480.txt</li>
 		</guonei>
 		<internet>
@@ -862,29 +1199,38 @@
 			<li>./baidunews\internet\1038793510.txt</li>
 			<li>./baidunews\internet\1060801.txt</li>
 			<li>./baidunews\internet\113020140828417465388.txt</li>
+			<li>./baidunews\internet\11451855813.txt</li>
 			<li>./baidunews\internet\120140827082717273861623.txt</li>
 			<li>./baidunews\internet\131037.txt</li>
 			<li>./baidunews\internet\131556.txt</li>
 			<li>./baidunews\internet\131640.txt</li>
 			<li>./baidunews\internet\1318318574.txt</li>
+			<li>./baidunews\internet\1319319022.txt</li>
+			<li>./baidunews\internet\132205.txt</li>
+			<li>./baidunews\internet\132239.txt</li>
 			<li>./baidunews\internet\135020140825416092776.txt</li>
 			<li>./baidunews\internet\135020140827417006650.txt</li>
 			<li>./baidunews\internet\135020140827417084478.txt</li>
 			<li>./baidunews\internet\135020140828417587055.txt</li>
 			<li>./baidunews\internet\1408285527.txt</li>
 			<li>./baidunews\internet\1408285533.txt</li>
+			<li>./baidunews\internet\1408286005.txt</li>
 			<li>./baidunews\internet\140869381.txt</li>
+			<li>./baidunews\internet\147820140829418054235.txt</li>
 			<li>./baidunews\internet\1631408270740025387.txt</li>
 			<li>./baidunews\internet\1631408270945910025387.txt</li>
 			<li>./baidunews\internet\1631408271740002516.txt</li>
 			<li>./baidunews\internet\163140828084160025516.txt</li>
+			<li>./baidunews\internet\1631408301343100254.txt</li>
 			<li>./baidunews\internet\168201408271660000001660824.txt</li>
 			<li>./baidunews\internet\168220140827416858595.txt</li>
 			<li>./baidunews\internet\168220140828417557991.txt</li>
 			<li>./baidunews\internet\169746.txt</li>
 			<li>./baidunews\internet\171732014082820140828001549207.txt</li>
 			<li>./baidunews\internet\178201408203109322100.txt</li>
+			<li>./baidunews\internet\178201408203290722867.txt</li>
 			<li>./baidunews\internet\2014080036959.txt</li>
+			<li>./baidunews\internet\2014080037032.txt</li>
 			<li>./baidunews\internet\201408021.txt</li>
 			<li>./baidunews\internet\2014081283523.txt</li>
 			<li>./baidunews\internet\2014081283539.txt</li>
@@ -899,9 +1245,20 @@
 			<li>./baidunews\internet\201408201408284496405.txt</li>
 			<li>./baidunews\internet\201408201408285685338.txt</li>
 			<li>./baidunews\internet\20140820140828716470.txt</li>
+			<li>./baidunews\internet\201408201408294497938.txt</li>
+			<li>./baidunews\internet\20140820140829720332.txt</li>
+			<li>./baidunews\internet\20140820140829720484.txt</li>
+			<li>./baidunews\internet\20140820140829720909.txt</li>
+			<li>./baidunews\internet\201408201408304498388.txt</li>
+			<li>./baidunews\internet\20140820140830723168.txt</li>
+			<li>./baidunews\internet\201408201408310848248318.txt</li>
+			<li>./baidunews\internet\2014082014083110940723.txt</li>
 			<li>./baidunews\internet\201408201493119.txt</li>
+			<li>./baidunews\internet\201408201493566.txt</li>
+			<li>./baidunews\internet\2014082055382.txt</li>
 			<li>./baidunews\internet\201408223002.txt</li>
 			<li>./baidunews\internet\201408227758.txt</li>
+			<li>./baidunews\internet\201408227915.txt</li>
 			<li>./baidunews\internet\2014082518782900.txt</li>
 			<li>./baidunews\internet\20140826011675929.txt</li>
 			<li>./baidunews\internet\2014082607259576610.txt</li>
@@ -1063,6 +1420,7 @@
 			<li>./baidunews\internet\20140828237251.txt</li>
 			<li>./baidunews\internet\20140828237256.txt</li>
 			<li>./baidunews\internet\20140828240606.txt</li>
+			<li>./baidunews\internet\2014082825343.txt</li>
 			<li>./baidunews\internet\201408282729166.txt</li>
 			<li>./baidunews\internet\20140828275588.txt</li>
 			<li>./baidunews\internet\2014082828444250.txt</li>
@@ -1096,19 +1454,107 @@
 			<li>./baidunews\internet\20140828947981.txt</li>
 			<li>./baidunews\internet\20140828948041.txt</li>
 			<li>./baidunews\internet\20140828948081.txt</li>
+			<li>./baidunews\internet\20140829011526506.txt</li>
+			<li>./baidunews\internet\20140829016107.txt</li>
+			<li>./baidunews\internet\20140829021704.txt</li>
+			<li>./baidunews\internet\20140829064534.txt</li>
+			<li>./baidunews\internet\20140829100221249.txt</li>
+			<li>./baidunews\internet\20140829100233155.txt</li>
+			<li>./baidunews\internet\20140829100257144.txt</li>
+			<li>./baidunews\internet\20140829100925566768.txt</li>
+			<li>./baidunews\internet\2014082912879626.txt</li>
+			<li>./baidunews\internet\2014082912882981.txt</li>
+			<li>./baidunews\internet\2014082912891071.txt</li>
+			<li>./baidunews\internet\20140829167991365.txt</li>
+			<li>./baidunews\internet\20140829167998478.txt</li>
+			<li>./baidunews\internet\20140829168005269.txt</li>
+			<li>./baidunews\internet\20140829168016404.txt</li>
+			<li>./baidunews\internet\2014082919237025568209.txt</li>
+			<li>./baidunews\internet\20140829201408291886535.txt</li>
+			<li>./baidunews\internet\20140829201408293452607.txt</li>
+			<li>./baidunews\internet\20140829201408293452629.txt</li>
+			<li>./baidunews\internet\2014082923579585080.txt</li>
+			<li>./baidunews\internet\201408292645930.txt</li>
+			<li>./baidunews\internet\201408293031955.txt</li>
+			<li>./baidunews\internet\20140829303345.txt</li>
+			<li>./baidunews\internet\20140829365507.txt</li>
+			<li>./baidunews\internet\20140829365568.txt</li>
+			<li>./baidunews\internet\20140829365606.txt</li>
+			<li>./baidunews\internet\201408293679113.txt</li>
+			<li>./baidunews\internet\20140829403884138.txt</li>
+			<li>./baidunews\internet\20140829403894646.txt</li>
+			<li>./baidunews\internet\20140829642625.txt</li>
+			<li>./baidunews\internet\20140829948261.txt</li>
+			<li>./baidunews\internet\20140829948301.txt</li>
+			<li>./baidunews\internet\20140829948331.txt</li>
+			<li>./baidunews\internet\20140830012116987.txt</li>
+			<li>./baidunews\internet\20140830055950076.txt</li>
+			<li>./baidunews\internet\2014083008379585943.txt</li>
+			<li>./baidunews\internet\2014083009259585961.txt</li>
+			<li>./baidunews\internet\20140830100259019.txt</li>
+			<li>./baidunews\internet\20140830100259241.txt</li>
+			<li>./baidunews\internet\20140830100260129.txt</li>
+			<li>./baidunews\internet\20140830100261737.txt</li>
+			<li>./baidunews\internet\20140830100261751.txt</li>
+			<li>./baidunews\internet\20140830100262210.txt</li>
+			<li>./baidunews\internet\20140830100263343.txt</li>
+			<li>./baidunews\internet\20140830168021089.txt</li>
+			<li>./baidunews\internet\20140830168029833.txt</li>
+			<li>./baidunews\internet\20140830168030562.txt</li>
+			<li>./baidunews\internet\20140830168033524.txt</li>
+			<li>./baidunews\internet\20140830168036019.txt</li>
+			<li>./baidunews\internet\20140830168036716.txt</li>
+			<li>./baidunews\internet\20140830168038147.txt</li>
+			<li>./baidunews\internet\2014083018842877.txt</li>
+			<li>./baidunews\internet\20140830200017917956.txt</li>
+			<li>./baidunews\internet\20140830268833.txt</li>
 			<li>./baidunews\internet\2014083027451.txt</li>
 			<li>./baidunews\internet\2014083027538.txt</li>
+			<li>./baidunews\internet\2014083033974122158670.txt</li>
+			<li>./baidunews\internet\201408303451364.txt</li>
+			<li>./baidunews\internet\20140830402455.txt</li>
+			<li>./baidunews\internet\20140830403909935.txt</li>
+			<li>./baidunews\internet\20140830403917143.txt</li>
+			<li>./baidunews\internet\20140830403917602.txt</li>
+			<li>./baidunews\internet\20140830403917817.txt</li>
+			<li>./baidunews\internet\20140830479566.txt</li>
+			<li>./baidunews\internet\201408305425826.txt</li>
+			<li>./baidunews\internet\20140831005213.txt</li>
+			<li>./baidunews\internet\20140831006530838.txt</li>
+			<li>./baidunews\internet\20140831008144.txt</li>
+			<li>./baidunews\internet\20140831010064.txt</li>
+			<li>./baidunews\internet\20140831012032.txt</li>
+			<li>./baidunews\internet\20140831100266618.txt</li>
+			<li>./baidunews\internet\20140831100267012.txt</li>
+			<li>./baidunews\internet\20140831103416572.txt</li>
+			<li>./baidunews\internet\20140831132317918675.txt</li>
+			<li>./baidunews\internet\20140831168043920.txt</li>
+			<li>./baidunews\internet\20140831168045260.txt</li>
+			<li>./baidunews\internet\20140831201408313455598.txt</li>
 			<li>./baidunews\internet\20140833317.txt</li>
 			<li>./baidunews\internet\2014084041.txt</li>
+			<li>./baidunews\internet\201408466.txt</li>
 			<li>./baidunews\internet\2014085117193.txt</li>
 			<li>./baidunews\internet\2014085119768.txt</li>
+			<li>./baidunews\internet\20140857919.txt</li>
 			<li>./baidunews\internet\201408592.txt</li>
 			<li>./baidunews\internet\20140868511.txt</li>
 			<li>./baidunews\internet\20148302231.txt</li>
+			<li>./baidunews\internet\212014082920202.txt</li>
 			<li>./baidunews\internet\2220140828237269.txt</li>
+			<li>./baidunews\internet\24.txt</li>
 			<li>./baidunews\internet\2577598.txt</li>
+			<li>./baidunews\internet\26194809.txt</li>
+			<li>./baidunews\internet\26194855.txt</li>
+			<li>./baidunews\internet\26194874.txt</li>
+			<li>./baidunews\internet\26194880.txt</li>
+			<li>./baidunews\internet\26194922.txt</li>
 			<li>./baidunews\internet\268140826260.txt</li>
+			<li>./baidunews\internet\26814082966997132.txt</li>
 			<li>./baidunews\internet\27014082675958.txt</li>
+			<li>./baidunews\internet\2701408294077.txt</li>
+			<li>./baidunews\internet\270140829621.txt</li>
+			<li>./baidunews\internet\27014082995671.txt</li>
 			<li>./baidunews\internet\2713060527.txt</li>
 			<li>./baidunews\internet\280142.txt</li>
 			<li>./baidunews\internet\280192.txt</li>
@@ -1124,6 +1570,7 @@
 			<li>./baidunews\internet\300552014082854049840582.txt</li>
 			<li>./baidunews\internet\3013060530.txt</li>
 			<li>./baidunews\internet\31414082626374.txt</li>
+			<li>./baidunews\internet\314140829352435.txt</li>
 			<li>./baidunews\internet\317140827018803.txt</li>
 			<li>./baidunews\internet\317140827182864.txt</li>
 			<li>./baidunews\internet\317140827365676.txt</li>
@@ -1133,6 +1580,12 @@
 			<li>./baidunews\internet\31714082817.txt</li>
 			<li>./baidunews\internet\317140828312156.txt</li>
 			<li>./baidunews\internet\3171408287490344.txt</li>
+			<li>./baidunews\internet\3171408290098713.txt</li>
+			<li>./baidunews\internet\31714082907195043.txt</li>
+			<li>./baidunews\internet\317140829077684.txt</li>
+			<li>./baidunews\internet\317140829918515.txt</li>
+			<li>./baidunews\internet\31914082940368.txt</li>
+			<li>./baidunews\internet\34838811348.txt</li>
 			<li>./baidunews\internet\35496.txt</li>
 			<li>./baidunews\internet\36520140828014194872.txt</li>
 			<li>./baidunews\internet\36520140828014194873.txt</li>
@@ -1141,6 +1594,12 @@
 			<li>./baidunews\internet\40813060908.txt</li>
 			<li>./baidunews\internet\410451.txt</li>
 			<li>./baidunews\internet\411921.txt</li>
+			<li>./baidunews\internet\413081.txt</li>
+			<li>./baidunews\internet\413171.txt</li>
+			<li>./baidunews\internet\413291.txt</li>
+			<li>./baidunews\internet\413611.txt</li>
+			<li>./baidunews\internet\413651.txt</li>
+			<li>./baidunews\internet\4313064043.txt</li>
 			<li>./baidunews\internet\473442014082858249842409.txt</li>
 			<li>./baidunews\internet\4754753885.txt</li>
 			<li>./baidunews\internet\4754754661.txt</li>
@@ -1151,10 +1610,13 @@
 			<li>./baidunews\internet\5345341436.txt</li>
 			<li>./baidunews\internet\5413060554.txt</li>
 			<li>./baidunews\internet\588671410641265435.txt</li>
+			<li>./baidunews\internet\81835167.txt</li>
 			<li>./baidunews\internet\84016.txt</li>
 			<li>./baidunews\internet\84065.txt</li>
 			<li>./baidunews\internet\84089.txt</li>
+			<li>./baidunews\internet\84156.txt</li>
 			<li>./baidunews\internet\920140827107423367.txt</li>
+			<li>./baidunews\internet\920140829107571656.txt</li>
 			<li>./baidunews\internet\967071.txt</li>
 			<li>./baidunews\internet\968565504148248688.txt</li>
 		</internet>
@@ -1179,6 +1641,11 @@
 			<li>./baidunews\jiaoyu\20140820140828713293.txt</li>
 			<li>./baidunews\jiaoyu\20140820140828715953.txt</li>
 			<li>./baidunews\jiaoyu\20140820140828717459.txt</li>
+			<li>./baidunews\jiaoyu\20140820140831516353589.txt</li>
+			<li>./baidunews\jiaoyu\20140820140831516354033.txt</li>
+			<li>./baidunews\jiaoyu\20140820140831516354054.txt</li>
+			<li>./baidunews\jiaoyu\20140820140831516354107.txt</li>
+			<li>./baidunews\jiaoyu\20140820140831724122.txt</li>
 			<li>./baidunews\jiaoyu\201408201493249.txt</li>
 			<li>./baidunews\jiaoyu\20140823927.txt</li>
 			<li>./baidunews\jiaoyu\20140824100157983.txt</li>
@@ -1262,6 +1729,9 @@
 			<li>./baidunews\jiaoyu\20140828167977373.txt</li>
 			<li>./baidunews\jiaoyu\2014082820140828165452.txt</li>
 			<li>./baidunews\jiaoyu\201408283146306.txt</li>
+			<li>./baidunews\jiaoyu\20140828337.txt</li>
+			<li>./baidunews\jiaoyu\20140828338.txt</li>
+			<li>./baidunews\jiaoyu\20140828340.txt</li>
 			<li>./baidunews\jiaoyu\201408283452435.txt</li>
 			<li>./baidunews\jiaoyu\2014082836700125560552.txt</li>
 			<li>./baidunews\jiaoyu\201408283676759.txt</li>
@@ -1275,9 +1745,56 @@
 			<li>./baidunews\jiaoyu\201408286542134.txt</li>
 			<li>./baidunews\jiaoyu\201408287182.txt</li>
 			<li>./baidunews\jiaoyu\201408288642450874.txt</li>
+			<li>./baidunews\jiaoyu\20140829000490995.txt</li>
+			<li>./baidunews\jiaoyu\20140829020229179.txt</li>
+			<li>./baidunews\jiaoyu\20140829100231168.txt</li>
+			<li>./baidunews\jiaoyu\2014082912882208.txt</li>
+			<li>./baidunews\jiaoyu\20140829403870663.txt</li>
+			<li>./baidunews\jiaoyu\2014083030838.txt</li>
+			<li>./baidunews\jiaoyu\20140831000484152.txt</li>
+			<li>./baidunews\jiaoyu\20140831000491133.txt</li>
+			<li>./baidunews\jiaoyu\20140831013296990.txt</li>
+			<li>./baidunews\jiaoyu\20140831013297070.txt</li>
+			<li>./baidunews\jiaoyu\20140831017010.txt</li>
+			<li>./baidunews\jiaoyu\20140831021757617.txt</li>
+			<li>./baidunews\jiaoyu\20140831021757618.txt</li>
+			<li>./baidunews\jiaoyu\20140831052010116.txt</li>
+			<li>./baidunews\jiaoyu\20140831052010139.txt</li>
+			<li>./baidunews\jiaoyu\20140831055951138.txt</li>
+			<li>./baidunews\jiaoyu\20140831100264760.txt</li>
+			<li>./baidunews\jiaoyu\20140831100265292.txt</li>
+			<li>./baidunews\jiaoyu\20140831100265671.txt</li>
+			<li>./baidunews\jiaoyu\20140831100266903.txt</li>
+			<li>./baidunews\jiaoyu\20140831100268198.txt</li>
+			<li>./baidunews\jiaoyu\20140831100625573150.txt</li>
+			<li>./baidunews\jiaoyu\20140831100625574037.txt</li>
+			<li>./baidunews\jiaoyu\20140831105325574151.txt</li>
+			<li>./baidunews\jiaoyu\201408311169859.txt</li>
+			<li>./baidunews\jiaoyu\201408311409376.txt</li>
+			<li>./baidunews\jiaoyu\20140831168048040.txt</li>
+			<li>./baidunews\jiaoyu\201408311817247077.txt</li>
+			<li>./baidunews\jiaoyu\20140831186742.txt</li>
+			<li>./baidunews\jiaoyu\201408313387526.txt</li>
+			<li>./baidunews\jiaoyu\20140831435710.txt</li>
+			<li>./baidunews\jiaoyu\20140831486144.txt</li>
+			<li>./baidunews\jiaoyu\201408316497.txt</li>
+			<li>./baidunews\jiaoyu\201408316547509.txt</li>
 			<li>./baidunews\jiaoyu\20140831673.txt</li>
+			<li>./baidunews\jiaoyu\201408317640417.txt</li>
+			<li>./baidunews\jiaoyu\201408318713175894.txt</li>
+			<li>./baidunews\jiaoyu\20140832730.txt</li>
+			<li>./baidunews\jiaoyu\201408342575.txt</li>
 			<li>./baidunews\jiaoyu\20140834343.txt</li>
 			<li>./baidunews\jiaoyu\20140840575.txt</li>
+			<li>./baidunews\jiaoyu\20140845917.txt</li>
+			<li>./baidunews\jiaoyu\201408486362.txt</li>
+			<li>./baidunews\jiaoyu\20140879838.txt</li>
+			<li>./baidunews\jiaoyu\20140879888.txt</li>
+			<li>./baidunews\jiaoyu\20140879890.txt</li>
+			<li>./baidunews\jiaoyu\20140879891.txt</li>
+			<li>./baidunews\jiaoyu\20140879897.txt</li>
+			<li>./baidunews\jiaoyu\20140879902.txt</li>
+			<li>./baidunews\jiaoyu\20140879940.txt</li>
 			<li>./baidunews\jiaoyu\20148302279.txt</li>
 			<li>./baidunews\jiaoyu\2579827.txt</li>
 			<li>./baidunews\jiaoyu\29205.txt</li>
@@ -1305,6 +1822,9 @@
 			<li>./baidunews\lady\201408201408284496570.txt</li>
 			<li>./baidunews\lady\201408201408284496624.txt</li>
 			<li>./baidunews\lady\20140820140828713397.txt</li>
+			<li>./baidunews\lady\201408201408315692550.txt</li>
+			<li>./baidunews\lady\20140820140831724279.txt</li>
+			<li>./baidunews\lady\20140820140831724280.txt</li>
 			<li>./baidunews\lady\2014082600020030041170855.txt</li>
 			<li>./baidunews\lady\20140827100199798.txt</li>
 			<li>./baidunews\lady\20140827100201435.txt</li>
@@ -1397,10 +1917,56 @@
 			<li>./baidunews\lady\20140828861625.txt</li>
 			<li>./baidunews\lady\20140828861748.txt</li>
 			<li>./baidunews\lady\20140828862079.txt</li>
+			<li>./baidunews\lady\20140829100250233.txt</li>
+			<li>./baidunews\lady\20140830261708.txt</li>
+			<li>./baidunews\lady\20140830402447.txt</li>
+			<li>./baidunews\lady\20140831010482390.txt</li>
+			<li>./baidunews\lady\20140831013891900.txt</li>
+			<li>./baidunews\lady\20140831021757328.txt</li>
+			<li>./baidunews\lady\20140831055951093.txt</li>
+			<li>./baidunews\lady\20140831100266389.txt</li>
+			<li>./baidunews\lady\20140831103415632.txt</li>
+			<li>./baidunews\lady\20140831103416475.txt</li>
+			<li>./baidunews\lady\2014083112924806.txt</li>
+			<li>./baidunews\lady\2014083113665725573766.txt</li>
+			<li>./baidunews\lady\20140831142040.txt</li>
+			<li>./baidunews\lady\20140831142045.txt</li>
+			<li>./baidunews\lady\2014083115727825573315.txt</li>
+			<li>./baidunews\lady\2014083115727825573709.txt</li>
+			<li>./baidunews\lady\20140831164420171979.txt</li>
+			<li>./baidunews\lady\20140831168048403.txt</li>
+			<li>./baidunews\lady\20140831168048447.txt</li>
+			<li>./baidunews\lady\201408311870867.txt</li>
+			<li>./baidunews\lady\2014083122914422164061.txt</li>
+			<li>./baidunews\lady\20140831402578.txt</li>
+			<li>./baidunews\lady\20140831402579.txt</li>
+			<li>./baidunews\lady\20140831402581.txt</li>
+			<li>./baidunews\lady\20140831869273.txt</li>
+			<li>./baidunews\lady\20140831869687.txt</li>
+			<li>./baidunews\lady\20140831870557.txt</li>
+			<li>./baidunews\lady\20140831870738.txt</li>
+			<li>./baidunews\lady\20140831870765.txt</li>
+			<li>./baidunews\lady\20140831870835.txt</li>
+			<li>./baidunews\lady\20140831870971.txt</li>
+			<li>./baidunews\lady\20140831871078.txt</li>
+			<li>./baidunews\lady\20140831871240.txt</li>
+			<li>./baidunews\lady\20140831871254.txt</li>
+			<li>./baidunews\lady\20140831871256.txt</li>
+			<li>./baidunews\lady\20140831871273.txt</li>
+			<li>./baidunews\lady\20140831871276.txt</li>
+			<li>./baidunews\lady\20140831871278.txt</li>
+			<li>./baidunews\lady\20140831871296.txt</li>
+			<li>./baidunews\lady\20140831871302.txt</li>
+			<li>./baidunews\lady\20140831871325.txt</li>
+			<li>./baidunews\lady\20140831871333.txt</li>
+			<li>./baidunews\lady\20140831871371.txt</li>
 			<li>./baidunews\lady\201408340811.txt</li>
 			<li>./baidunews\lady\201408340958.txt</li>
+			<li>./baidunews\lady\201408342091.txt</li>
 			<li>./baidunews\lady\201408388564.txt</li>
 			<li>./baidunews\lady\2014085119209.txt</li>
+			<li>./baidunews\lady\2014201408312328528.txt</li>
+			<li>./baidunews\lady\2014201408312328538.txt</li>
 			<li>./baidunews\lady\271884542682.txt</li>
 			<li>./baidunews\lady\2726606.txt</li>
 			<li>./baidunews\lady\2931408284324.txt</li>
@@ -1411,12 +1977,20 @@
 			<li>./baidunews\lady\3051408280700.txt</li>
 			<li>./baidunews\lady\31421424403.txt</li>
 			<li>./baidunews\lady\323140305238047.txt</li>
+			<li>./baidunews\lady\367140831727380.txt</li>
 			<li>./baidunews\lady\38252014082785859839278.txt</li>
 			<li>./baidunews\lady\39102014082825239842500.txt</li>
 			<li>./baidunews\lady\39102014082887659841935.txt</li>
 			<li>./baidunews\lady\422140827016.txt</li>
 			<li>./baidunews\lady\618201408201408275611373.txt</li>
 			<li>./baidunews\lady\618201408201408285612590.txt</li>
+			<li>./baidunews\lady\618201408201408315619684.txt</li>
+			<li>./baidunews\lady\618201408201408315619694.txt</li>
+			<li>./baidunews\lady\618201408201408315619704.txt</li>
+			<li>./baidunews\lady\618201408201408315619843.txt</li>
+			<li>./baidunews\lady\618201408201408315619853.txt</li>
+			<li>./baidunews\lady\618201408201408315619896.txt</li>
+			<li>./baidunews\lady\618201408201408315619905.txt</li>
 			<li>./baidunews\lady\622014082893783.txt</li>
 			<li>./baidunews\lady\66972.txt</li>
 			<li>./baidunews\lady\66975.txt</li>
@@ -1427,10 +2001,13 @@
 			<li>./baidunews\lady\89221.txt</li>
 			<li>./baidunews\lady\89233.txt</li>
 			<li>./baidunews\lady\89236.txt</li>
+			<li>./baidunews\lady\89343.txt</li>
+			<li>./baidunews\lady\89366.txt</li>
 		</lady>
 		<mil>
 			<label>9</label>
 			<li>./baidunews\mil\1186441.txt</li>
+			<li>./baidunews\mil\1408327458.txt</li>
 			<li>./baidunews\mil\16348000172907.txt</li>
 			<li>./baidunews\mil\201407337725.txt</li>
 			<li>./baidunews\mil\20140820140826708563.txt</li>
@@ -1462,11 +2039,19 @@
 			<li>./baidunews\mil\20140828191220151439.txt</li>
 			<li>./baidunews\mil\201408282337648.txt</li>
 			<li>./baidunews\mil\20140828303218.txt</li>
+			<li>./baidunews\mil\2014082836496422131230.txt</li>
 			<li>./baidunews\mil\20140828403838237.txt</li>
 			<li>./baidunews\mil\20140828477025.txt</li>
 			<li>./baidunews\mil\201408286541221.txt</li>
 			<li>./baidunews\mil\201408286541933.txt</li>
 			<li>./baidunews\mil\20140828831102.txt</li>
+			<li>./baidunews\mil\2014082910451025564714.txt</li>
+			<li>./baidunews\mil\201408296545541.txt</li>
+			<li>./baidunews\mil\2014083012910049.txt</li>
+			<li>./baidunews\mil\20140830479936.txt</li>
+			<li>./baidunews\mil\201408307629336.txt</li>
+			<li>./baidunews\mil\2014083128494575.txt</li>
+			<li>./baidunews\mil\201408317640529.txt</li>
 			<li>./baidunews\mil\201408388539.txt</li>
 			<li>./baidunews\mil\201408388556.txt</li>
 			<li>./baidunews\mil\2014085115914.txt</li>
@@ -1481,13 +2066,26 @@
 			<li>./baidunews\mil\2751408283886.txt</li>
 			<li>./baidunews\mil\2751408286956.txt</li>
 			<li>./baidunews\mil\275140828959.txt</li>
+			<li>./baidunews\mil\2751408290915.txt</li>
+			<li>./baidunews\mil\27514083000524.txt</li>
+			<li>./baidunews\mil\27514083102249.txt</li>
+			<li>./baidunews\mil\27514083196711.txt</li>
+			<li>./baidunews\mil\2801408319290.txt</li>
 			<li>./baidunews\mil\61837057201408201408275612005.txt</li>
 			<li>./baidunews\mil\61837057201408201408285612326.txt</li>
 			<li>./baidunews\mil\61837057201408201408285612346.txt</li>
+			<li>./baidunews\mil\61837057201408201408305618466.txt</li>
+			<li>./baidunews\mil\61837057201408201408315619844.txt</li>
+			<li>./baidunews\mil\61837057201408201408315619848.txt</li>
+			<li>./baidunews\mil\61837057201408201408315619859.txt</li>
+			<li>./baidunews\mil\61837057201408201408315619872.txt</li>
+			<li>./baidunews\mil\61837057201408201408315619877.txt</li>
+			<li>./baidunews\mil\61837057201408201408315619904.txt</li>
 		</mil>
 		<shehui>
 			<label>10</label>
 			<li>./baidunews\shehui\02220140828736570.txt</li>
+			<li>./baidunews\shehui\1020140831480203.txt</li>
 			<li>./baidunews\shehui\119201408277185061.txt</li>
 			<li>./baidunews\shehui\13520140820140825706191.txt</li>
 			<li>./baidunews\shehui\201408201408275678850.txt</li>
@@ -1497,6 +2095,7 @@
 			<li>./baidunews\shehui\20140820140828717433.txt</li>
 			<li>./baidunews\shehui\20140820140828717444.txt</li>
 			<li>./baidunews\shehui\20140820140828717486.txt</li>
+			<li>./baidunews\shehui\20140820140831221942.txt</li>
 			<li>./baidunews\shehui\2014082412738065.txt</li>
 			<li>./baidunews\shehui\2014082512751829.txt</li>
 			<li>./baidunews\shehui\2014082529201.txt</li>
@@ -1623,21 +2222,93 @@
 			<li>./baidunews\shehui\201408287073125556960.txt</li>
 			<li>./baidunews\shehui\201408288645767894.txt</li>
 			<li>./baidunews\shehui\20140828930195.txt</li>
+			<li>./baidunews\shehui\201408290824157943.txt</li>
+			<li>./baidunews\shehui\2014082911552074.txt</li>
+			<li>./baidunews\shehui\20140830052009840.txt</li>
+			<li>./baidunews\shehui\20140830055950533.txt</li>
+			<li>./baidunews\shehui\201408304939015.txt</li>
+			<li>./baidunews\shehui\20140831009793.txt</li>
+			<li>./baidunews\shehui\20140831010482386.txt</li>
+			<li>./baidunews\shehui\20140831011686192.txt</li>
+			<li>./baidunews\shehui\20140831011686193.txt</li>
+			<li>./baidunews\shehui\20140831012117415.txt</li>
+			<li>./baidunews\shehui\20140831013889137.txt</li>
+			<li>./baidunews\shehui\20140831013889172.txt</li>
+			<li>./baidunews\shehui\20140831016912212.txt</li>
+			<li>./baidunews\shehui\20140831018853.txt</li>
+			<li>./baidunews\shehui\20140831020229978.txt</li>
+			<li>./baidunews\shehui\20140831020230386.txt</li>
+			<li>./baidunews\shehui\20140831052010076.txt</li>
+			<li>./baidunews\shehui\20140831052010132.txt</li>
+			<li>./baidunews\shehui\20140831052010136.txt</li>
+			<li>./baidunews\shehui\20140831052010140.txt</li>
+			<li>./baidunews\shehui\20140831052010158.txt</li>
+			<li>./baidunews\shehui\20140831055951234.txt</li>
+			<li>./baidunews\shehui\20140831055951288.txt</li>
+			<li>./baidunews\shehui\20140831055951327.txt</li>
+			<li>./baidunews\shehui\20140831055951330.txt</li>
+			<li>./baidunews\shehui\20140831055951332.txt</li>
+			<li>./baidunews\shehui\20140831055951333.txt</li>
+			<li>./baidunews\shehui\20140831055951349.txt</li>
+			<li>./baidunews\shehui\20140831100267905.txt</li>
+			<li>./baidunews\shehui\20140831103416615.txt</li>
+			<li>./baidunews\shehui\201408311169875.txt</li>
+			<li>./baidunews\shehui\2014083112917245.txt</li>
+			<li>./baidunews\shehui\2014083112920234.txt</li>
+			<li>./baidunews\shehui\201408311302807.txt</li>
+			<li>./baidunews\shehui\201408311314640.txt</li>
+			<li>./baidunews\shehui\201408311314650.txt</li>
+			<li>./baidunews\shehui\201408311314660.txt</li>
+			<li>./baidunews\shehui\201408311314670.txt</li>
+			<li>./baidunews\shehui\201408311314700.txt</li>
+			<li>./baidunews\shehui\201408311314710.txt</li>
+			<li>./baidunews\shehui\2014083113665725573649.txt</li>
+			<li>./baidunews\shehui\2014083113665725573778.txt</li>
+			<li>./baidunews\shehui\20140831168049010.txt</li>
+			<li>./baidunews\shehui\201408311713773.txt</li>
+			<li>./baidunews\shehui\2014083118850225574075.txt</li>
+			<li>./baidunews\shehui\2014083128497399.txt</li>
+			<li>./baidunews\shehui\2014083128499084.txt</li>
+			<li>./baidunews\shehui\2014083131844904.txt</li>
+			<li>./baidunews\shehui\20140831418031680.txt</li>
+			<li>./baidunews\shehui\20140831435701.txt</li>
+			<li>./baidunews\shehui\20140831485794.txt</li>
+			<li>./baidunews\shehui\20140831486145.txt</li>
+			<li>./baidunews\shehui\20140831574327220908.txt</li>
+			<li>./baidunews\shehui\20140831574327320908.txt</li>
+			<li>./baidunews\shehui\20140831574327720908.txt</li>
+			<li>./baidunews\shehui\201408316547016.txt</li>
+			<li>./baidunews\shehui\201408316547268.txt</li>
+			<li>./baidunews\shehui\201408316547575.txt</li>
+			<li>./baidunews\shehui\201408316547583.txt</li>
+			<li>./baidunews\shehui\201408318715087954.txt</li>
 			<li>./baidunews\shehui\201408486139.txt</li>
 			<li>./baidunews\shehui\201408486156.txt</li>
 			<li>./baidunews\shehui\201408486165.txt</li>
+			<li>./baidunews\shehui\201408486393.txt</li>
 			<li>./baidunews\shehui\20140868591.txt</li>
 			<li>./baidunews\shehui\201420140820140828516333502.txt</li>
+			<li>./baidunews\shehui\20833.txt</li>
+			<li>./baidunews\shehui\2581743.txt</li>
 			<li>./baidunews\shehui\27447.txt</li>
 			<li>./baidunews\shehui\27479.txt</li>
 			<li>./baidunews\shehui\27486.txt</li>
 			<li>./baidunews\shehui\27517.txt</li>
 			<li>./baidunews\shehui\27608.txt</li>
+			<li>./baidunews\shehui\27765.txt</li>
+			<li>./baidunews\shehui\27776.txt</li>
+			<li>./baidunews\shehui\27777.txt</li>
+			<li>./baidunews\shehui\27812.txt</li>
 			<li>./baidunews\shehui\36520140828014193809.txt</li>
 			<li>./baidunews\shehui\36520140828014194887.txt</li>
+			<li>./baidunews\shehui\36520140831014200232.txt</li>
 			<li>./baidunews\shehui\36714082746745.txt</li>
 			<li>./baidunews\shehui\3671408279504.txt</li>
 			<li>./baidunews\shehui\36714082827405.txt</li>
+			<li>./baidunews\shehui\3671408315169739.txt</li>
+			<li>./baidunews\shehui\36714083171614.txt</li>
+			<li>./baidunews\shehui\374828.txt</li>
+			<li>./baidunews\shehui\374954.txt</li>
 			<li>./baidunews\shehui\38252014082880459840043.txt</li>
 			<li>./baidunews\shehui\38252014082880459840046.txt</li>
 			<li>./baidunews\shehui\38252014082880459840047.txt</li>
@@ -1652,17 +2323,31 @@
 			<label>11</label>
 			<li>./baidunews\sports\1581296.txt</li>
 			<li>./baidunews\sports\1583315.txt</li>
+			<li>./baidunews\sports\1585457.txt</li>
+			<li>./baidunews\sports\1585612.txt</li>
 			<li>./baidunews\sports\163140827114960005189.txt</li>
 			<li>./baidunews\sports\163140828144000518.txt</li>
 			<li>./baidunews\sports\1631408281544100051.txt</li>
 			<li>./baidunews\sports\163140828194193000511.txt</li>
 			<li>./baidunews\sports\16314082821401100051.txt</li>
+			<li>./baidunews\sports\1631408292040005189.txt</li>
+			<li>./baidunews\sports\163140831084570005189.txt</li>
+			<li>./baidunews\sports\16314083115504700051.txt</li>
 			<li>./baidunews\sports\1758328.txt</li>
 			<li>./baidunews\sports\1758372.txt</li>
 			<li>./baidunews\sports\1758785.txt</li>
 			<li>./baidunews\sports\1758786.txt</li>
 			<li>./baidunews\sports\1759120.txt</li>
+			<li>./baidunews\sports\1761147.txt</li>
+			<li>./baidunews\sports\1761371.txt</li>
+			<li>./baidunews\sports\1761411.txt</li>
+			<li>./baidunews\sports\1761419.txt</li>
+			<li>./baidunews\sports\1761420.txt</li>
+			<li>./baidunews\sports\1761425.txt</li>
+			<li>./baidunews\sports\1761427.txt</li>
 			<li>./baidunews\sports\2014082014082810928882.txt</li>
+			<li>./baidunews\sports\201408201408309747823.txt</li>
+			<li>./baidunews\sports\20140820140831723913.txt</li>
 			<li>./baidunews\sports\201408262213425537849.txt</li>
 			<li>./baidunews\sports\2014082635028225542361.txt</li>
 			<li>./baidunews\sports\20140826483394.txt</li>
@@ -1683,18 +2368,39 @@
 			<li>./baidunews\sports\20140828100206465.txt</li>
 			<li>./baidunews\sports\20140828167947264.txt</li>
 			<li>./baidunews\sports\20140828167947535.txt</li>
+			<li>./baidunews\sports\2014082833360320.txt</li>
 			<li>./baidunews\sports\2014082833361215.txt</li>
+			<li>./baidunews\sports\20140828484392.txt</li>
 			<li>./baidunews\sports\201408287061900.txt</li>
+			<li>./baidunews\sports\20140829168010638.txt</li>
+			<li>./baidunews\sports\20140829484946.txt</li>
+			<li>./baidunews\sports\20140829485151.txt</li>
+			<li>./baidunews\sports\20140829485174.txt</li>
+			<li>./baidunews\sports\20140830028638.txt</li>
+			<li>./baidunews\sports\20140830403910637.txt</li>
+			<li>./baidunews\sports\20140830485392.txt</li>
+			<li>./baidunews\sports\20140830485745.txt</li>
+			<li>./baidunews\sports\2014083106277315727.txt</li>
+			<li>./baidunews\sports\2014083131843634.txt</li>
+			<li>./baidunews\sports\20140831403922204.txt</li>
 			<li>./baidunews\sports\37249.txt</li>
 			<li>./baidunews\sports\37458.txt</li>
 			<li>./baidunews\sports\37496.txt</li>
 			<li>./baidunews\sports\37536.txt</li>
 			<li>./baidunews\sports\37540.txt</li>
+			<li>./baidunews\sports\38058.txt</li>
+			<li>./baidunews\sports\38191.txt</li>
 		</sports>
 		<tech>
 			<label>12</label>
 			<li>./baidunews\tech\100751.txt</li>
 			<li>./baidunews\tech\100918.txt</li>
+			<li>./baidunews\tech\101119.txt</li>
+			<li>./baidunews\tech\101263.txt</li>
+			<li>./baidunews\tech\101292.txt</li>
+			<li>./baidunews\tech\101314.txt</li>
+			<li>./baidunews\tech\101361.txt</li>
+			<li>./baidunews\tech\101390.txt</li>
 			<li>./baidunews\tech\110351035179.txt</li>
 			<li>./baidunews\tech\110351035286.txt</li>
 			<li>./baidunews\tech\110351035372.txt</li>
@@ -1704,6 +2410,7 @@
 			<li>./baidunews\tech\11416855169.txt</li>
 			<li>./baidunews\tech\11441855370.txt</li>
 			<li>./baidunews\tech\11441855394.txt</li>
+			<li>./baidunews\tech\11451855865.txt</li>
 			<li>./baidunews\tech\1294185.txt</li>
 			<li>./baidunews\tech\1318318545.txt</li>
 			<li>./baidunews\tech\1318318791.txt</li>
@@ -1716,9 +2423,12 @@
 			<li>./baidunews\tech\2012041707396968467.txt</li>
 			<li>./baidunews\tech\2012041710086969636.txt</li>
 			<li>./baidunews\tech\201204173982233.txt</li>
+			<li>./baidunews\tech\201408201408292059547.txt</li>
+			<li>./baidunews\tech\20140820140830516351014.txt</li>
 			<li>./baidunews\tech\201408210007842028872479.txt</li>
 			<li>./baidunews\tech\201408210007846028872551.txt</li>
 			<li>./baidunews\tech\201408221306570.txt</li>
+			<li>./baidunews\tech\20140825100169709.txt</li>
 			<li>./baidunews\tech\20140826100178392.txt</li>
 			<li>./baidunews\tech\20140826100181596.txt</li>
 			<li>./baidunews\tech\201408261538341.txt</li>
@@ -1769,40 +2479,82 @@
 			<li>./baidunews\tech\20140828184896.txt</li>
 			<li>./baidunews\tech\201408283031719.txt</li>
 			<li>./baidunews\tech\20140828403855690.txt</li>
+			<li>./baidunews\tech\20140828484332.txt</li>
 			<li>./baidunews\tech\201408285422203.txt</li>
 			<li>./baidunews\tech\201408286539989.txt</li>
+			<li>./baidunews\tech\20140829021747804.txt</li>
+			<li>./baidunews\tech\20140829100230886.txt</li>
+			<li>./baidunews\tech\20140829100243110.txt</li>
+			<li>./baidunews\tech\20140829100254354.txt</li>
+			<li>./baidunews\tech\20140829100254372.txt</li>
+			<li>./baidunews\tech\20140829100925568647.txt</li>
+			<li>./baidunews\tech\201408291434374.txt</li>
+			<li>./baidunews\tech\20140829168012315.txt</li>
+			<li>./baidunews\tech\20140829403895187.txt</li>
+			<li>./baidunews\tech\20140830100261870.txt</li>
+			<li>./baidunews\tech\201408301539976.txt</li>
+			<li>./baidunews\tech\20140830168021084.txt</li>
+			<li>./baidunews\tech\20140830168033570.txt</li>
+			<li>./baidunews\tech\20140830168035208.txt</li>
+			<li>./baidunews\tech\201408302070685.txt</li>
+			<li>./baidunews\tech\2014083023154.txt</li>
+			<li>./baidunews\tech\20140831017022.txt</li>
+			<li>./baidunews\tech\20140831100265962.txt</li>
+			<li>./baidunews\tech\20140831100267529.txt</li>
+			<li>./baidunews\tech\20140831103415782.txt</li>
+			<li>./baidunews\tech\20140831168043924.txt</li>
+			<li>./baidunews\tech\20140831642821.txt</li>
 			<li>./baidunews\tech\201408342888641.txt</li>
 			<li>./baidunews\tech\201408343045172.txt</li>
+			<li>./baidunews\tech\201408343098191.txt</li>
+			<li>./baidunews\tech\201408343111191.txt</li>
 			<li>./baidunews\tech\20140868021.txt</li>
 			<li>./baidunews\tech\20140868192.txt</li>
 			<li>./baidunews\tech\20140868535.txt</li>
 			<li>./baidunews\tech\20140868549.txt</li>
 			<li>./baidunews\tech\20140868554.txt</li>
 			<li>./baidunews\tech\20140868557.txt</li>
+			<li>./baidunews\tech\20140868731.txt</li>
+			<li>./baidunews\tech\20140868934.txt</li>
+			<li>./baidunews\tech\20140868945.txt</li>
 			<li>./baidunews\tech\20140880555.txt</li>
 			<li>./baidunews\tech\20147342437235953.txt</li>
+			<li>./baidunews\tech\201483120148311144407107542.txt</li>
 			<li>./baidunews\tech\220140828130.txt</li>
 			<li>./baidunews\tech\22014082869.txt</li>
 			<li>./baidunews\tech\23538773235.txt</li>
+			<li>./baidunews\tech\2438776024.txt</li>
 			<li>./baidunews\tech\33013062330.txt</li>
+			<li>./baidunews\tech\33549.txt</li>
+			<li>./baidunews\tech\338803003.txt</li>
+			<li>./baidunews\tech\34638807846.txt</li>
 			<li>./baidunews\tech\35413060354.txt</li>
 			<li>./baidunews\tech\3602014827402461174.txt</li>
+			<li>./baidunews\tech\41413063414.txt</li>
 			<li>./baidunews\tech\45038790450.txt</li>
 			<li>./baidunews\tech\4513060545.txt</li>
 			<li>./baidunews\tech\4744746387.txt</li>
+			<li>./baidunews\tech\4754757731.txt</li>
 			<li>./baidunews\tech\4754757757.txt</li>
+			<li>./baidunews\tech\4754759139.txt</li>
+			<li>./baidunews\tech\4764761425.txt</li>
 			<li>./baidunews\tech\47838756978.txt</li>
 			<li>./baidunews\tech\5305304936.txt</li>
 			<li>./baidunews\tech\5335331176.txt</li>
 			<li>./baidunews\tech\5335339036.txt</li>
+			<li>./baidunews\tech\5345340719.txt</li>
+			<li>./baidunews\tech\5355359716.txt</li>
+			<li>./baidunews\tech\7201408890.txt</li>
 			<li>./baidunews\tech\920140828107452743.txt</li>
 			<li>./baidunews\tech\920140828107467962.txt</li>
 			<li>./baidunews\tech\920140828107487892.txt</li>
+			<li>./baidunews\tech\920140831107618627.txt</li>
 		</tech>
 		<youxi>
 			<label>13</label>
 			<li>./baidunews\youxi\07073911391.txt</li>
 			<li>./baidunews\youxi\07073911735.txt</li>
+			<li>./baidunews\youxi\101408.txt</li>
 			<li>./baidunews\youxi\10322014082755890511.txt</li>
 			<li>./baidunews\youxi\110351035783.txt</li>
 			<li>./baidunews\youxi\110351035811.txt</li>
@@ -1817,6 +2569,7 @@
 			<li>./baidunews\youxi\1318318735.txt</li>
 			<li>./baidunews\youxi\1318318787.txt</li>
 			<li>./baidunews\youxi\1318318792.txt</li>
+			<li>./baidunews\youxi\1318318996.txt</li>
 			<li>./baidunews\youxi\1408273060840378.txt</li>
 			<li>./baidunews\youxi\1408273060990257.txt</li>
 			<li>./baidunews\youxi\1408273061977061.txt</li>
@@ -1835,6 +2588,14 @@
 			<li>./baidunews\youxi\1408273175926380.txt</li>
 			<li>./baidunews\youxi\1408273181858341.txt</li>
 			<li>./baidunews\youxi\1408273187272355.txt</li>
+			<li>./baidunews\youxi\1408273302588757.txt</li>
+			<li>./baidunews\youxi\1408273344796184.txt</li>
+			<li>./baidunews\youxi\1408273410679867.txt</li>
+			<li>./baidunews\youxi\1408273421323913.txt</li>
+			<li>./baidunews\youxi\1408273423903139.txt</li>
+			<li>./baidunews\youxi\1408273426436453.txt</li>
+			<li>./baidunews\youxi\1408273429326346.txt</li>
+			<li>./baidunews\youxi\14113063141.txt</li>
 			<li>./baidunews\youxi\14201408271536566558.txt</li>
 			<li>./baidunews\youxi\1717320140827201408271357296761.txt</li>
 			<li>./baidunews\youxi\171732014082820140828021228519.txt</li>
@@ -1845,6 +2606,8 @@
 			<li>./baidunews\youxi\171732014082820140828212116683.txt</li>
 			<li>./baidunews\youxi\171732014082820140828213339120.txt</li>
 			<li>./baidunews\youxi\1717320140828201408282229484371.txt</li>
+			<li>./baidunews\youxi\1717320140829201408291705008211.txt</li>
+			<li>./baidunews\youxi\1717320140831201408311253185541.txt</li>
 			<li>./baidunews\youxi\1746904.txt</li>
 			<li>./baidunews\youxi\1746930.txt</li>
 			<li>./baidunews\youxi\1746939.txt</li>
@@ -1861,8 +2624,11 @@
 			<li>./baidunews\youxi\179624.txt</li>
 			<li>./baidunews\youxi\179626.txt</li>
 			<li>./baidunews\youxi\179640.txt</li>
+			<li>./baidunews\youxi\179914.txt</li>
+			<li>./baidunews\youxi\179931.txt</li>
 			<li>./baidunews\youxi\18183201408165260.txt</li>
 			<li>./baidunews\youxi\18338780683.txt</li>
+			<li>./baidunews\youxi\20140820140830723005.txt</li>
 			<li>./baidunews\youxi\20140825100169728.txt</li>
 			<li>./baidunews\youxi\201408270916810047.txt</li>
 			<li>./baidunews\youxi\201408270951810056.txt</li>
@@ -1906,6 +2672,8 @@
 			<li>./baidunews\youxi\201408284866125560843.txt</li>
 			<li>./baidunews\youxi\201408284866125561103.txt</li>
 			<li>./baidunews\youxi\201408284866125561118.txt</li>
+			<li>./baidunews\youxi\201408294866125565768.txt</li>
+			<li>./baidunews\youxi\201408294866125565776.txt</li>
 			<li>./baidunews\youxi\21320148112801.txt</li>
 			<li>./baidunews\youxi\21320148112804.txt</li>
 			<li>./baidunews\youxi\21320148112834.txt</li>
@@ -1914,7 +2682,27 @@
 			<li>./baidunews\youxi\21320148112846.txt</li>
 			<li>./baidunews\youxi\21320148112922.txt</li>
 			<li>./baidunews\youxi\21320148112923.txt</li>
+			<li>./baidunews\youxi\21320148113052.txt</li>
+			<li>./baidunews\youxi\21320148113058.txt</li>
+			<li>./baidunews\youxi\21320148113082.txt</li>
+			<li>./baidunews\youxi\21320148113103.txt</li>
+			<li>./baidunews\youxi\21320148113113.txt</li>
+			<li>./baidunews\youxi\21320148113116.txt</li>
+			<li>./baidunews\youxi\21320148113121.txt</li>
+			<li>./baidunews\youxi\21320148113123.txt</li>
+			<li>./baidunews\youxi\21320148113124.txt</li>
+			<li>./baidunews\youxi\21320148113125.txt</li>
+			<li>./baidunews\youxi\21320148113126.txt</li>
+			<li>./baidunews\youxi\21320148113128.txt</li>
+			<li>./baidunews\youxi\21320148113129.txt</li>
+			<li>./baidunews\youxi\21320148113137.txt</li>
+			<li>./baidunews\youxi\21320148113140.txt</li>
 			<li>./baidunews\youxi\292014081190900.txt</li>
+			<li>./baidunews\youxi\305252.txt</li>
+			<li>./baidunews\youxi\305861.txt</li>
+			<li>./baidunews\youxi\305865.txt</li>
+			<li>./baidunews\youxi\305872.txt</li>
+			<li>./baidunews\youxi\31408273427057909.txt</li>
 			<li>./baidunews\youxi\3201408271553566572.txt</li>
 			<li>./baidunews\youxi\32014083357868.txt</li>
 			<li>./baidunews\youxi\32014083357870.txt</li>
@@ -1936,6 +2724,10 @@
 			<li>./baidunews\youxi\32014083358457.txt</li>
 			<li>./baidunews\youxi\32014083358487.txt</li>
 			<li>./baidunews\youxi\32014083358493.txt</li>
+			<li>./baidunews\youxi\32014083360468.txt</li>
+			<li>./baidunews\youxi\32014083360634.txt</li>
+			<li>./baidunews\youxi\32014083360650.txt</li>
+			<li>./baidunews\youxi\32014083360654.txt</li>
 			<li>./baidunews\youxi\36520140827014191432.txt</li>
 			<li>./baidunews\youxi\4264260302.txt</li>
 			<li>./baidunews\youxi\4264260345.txt</li>
@@ -1944,12 +2736,31 @@
 			<li>./baidunews\youxi\4264262300.txt</li>
 			<li>./baidunews\youxi\4264264184.txt</li>
 			<li>./baidunews\youxi\4264266343.txt</li>
+			<li>./baidunews\youxi\4274273283.txt</li>
+			<li>./baidunews\youxi\43992422756.txt</li>
+			<li>./baidunews\youxi\43992422824.txt</li>
+			<li>./baidunews\youxi\43993422838.txt</li>
 			<li>./baidunews\youxi\4399421240.txt</li>
 			<li>./baidunews\youxi\4399421273.txt</li>
 			<li>./baidunews\youxi\4399421382.txt</li>
 			<li>./baidunews\youxi\4399421397.txt</li>
+			<li>./baidunews\youxi\4399422377.txt</li>
+			<li>./baidunews\youxi\4399422706.txt</li>
+			<li>./baidunews\youxi\4399422726.txt</li>
+			<li>./baidunews\youxi\4399422747.txt</li>
+			<li>./baidunews\youxi\4399422754.txt</li>
+			<li>./baidunews\youxi\4399422806.txt</li>
+			<li>./baidunews\youxi\4399422810.txt</li>
+			<li>./baidunews\youxi\4399422813.txt</li>
+			<li>./baidunews\youxi\4399422815.txt</li>
+			<li>./baidunews\youxi\4399422820.txt</li>
+			<li>./baidunews\youxi\4399422821.txt</li>
+			<li>./baidunews\youxi\4399422830.txt</li>
+			<li>./baidunews\youxi\4399422833.txt</li>
 			<li>./baidunews\youxi\43994421710.txt</li>
 			<li>./baidunews\youxi\43996421621.txt</li>
+			<li>./baidunews\youxi\526155518.txt</li>
+			<li>./baidunews\youxi\526155522.txt</li>
 		</youxi>
 		<yule>
 			<label>14</label>
@@ -1957,6 +2768,7 @@
 			<li>./baidunews\yule\1186392.txt</li>
 			<li>./baidunews\yule\147020140827290229092.txt</li>
 			<li>./baidunews\yule\2014080036958.txt</li>
+			<li>./baidunews\yule\201408176713.txt</li>
 			<li>./baidunews\yule\2014082014082710919098.txt</li>
 			<li>./baidunews\yule\2014082014082710919708.txt</li>
 			<li>./baidunews\yule\2014082014082710919966.txt</li>
@@ -1973,6 +2785,10 @@
 			<li>./baidunews\yule\201408201408285686131.txt</li>
 			<li>./baidunews\yule\201408201408285686133.txt</li>
 			<li>./baidunews\yule\20140820140828716986.txt</li>
+			<li>./baidunews\yule\201408201408315691923.txt</li>
+			<li>./baidunews\yule\201408201408315692024.txt</li>
+			<li>./baidunews\yule\20140820140831724108.txt</li>
+			<li>./baidunews\yule\20140820140831724292.txt</li>
 			<li>./baidunews\yule\20140826055942442.txt</li>
 			<li>./baidunews\yule\2014082622913122116412.txt</li>
 			<li>./baidunews\yule\20140827052007493.txt</li>
@@ -2088,6 +2904,41 @@
 			<li>./baidunews\yule\201408286542086.txt</li>
 			<li>./baidunews\yule\2014082886414113740.txt</li>
 			<li>./baidunews\yule\20140828909.txt</li>
+			<li>./baidunews\yule\20140829100255167.txt</li>
+			<li>./baidunews\yule\20140830013890735.txt</li>
+			<li>./baidunews\yule\20140830055950424.txt</li>
+			<li>./baidunews\yule\20140830055950572.txt</li>
+			<li>./baidunews\yule\201408302124078.txt</li>
+			<li>./baidunews\yule\201408308667104830.txt</li>
+			<li>./baidunews\yule\20140831000484135.txt</li>
+			<li>./baidunews\yule\20140831005182.txt</li>
+			<li>./baidunews\yule\20140831012718932.txt</li>
+			<li>./baidunews\yule\20140831020230346.txt</li>
+			<li>./baidunews\yule\20140831055950999.txt</li>
+			<li>./baidunews\yule\20140831055951334.txt</li>
+			<li>./baidunews\yule\20140831055951353.txt</li>
+			<li>./baidunews\yule\2014083108037315834.txt</li>
+			<li>./baidunews\yule\20140831100266571.txt</li>
+			<li>./baidunews\yule\20140831100267939.txt</li>
+			<li>./baidunews\yule\201408311302945.txt</li>
+			<li>./baidunews\yule\201408311537325.txt</li>
+			<li>./baidunews\yule\201408312124594.txt</li>
+			<li>./baidunews\yule\2014083122914422164060.txt</li>
+			<li>./baidunews\yule\2014083122914422164062.txt</li>
+			<li>./baidunews\yule\2014083122914422164066.txt</li>
+			<li>./baidunews\yule\2014083122914422164067.txt</li>
+			<li>./baidunews\yule\201408312338190.txt</li>
+			<li>./baidunews\yule\20140831262283.txt</li>
+			<li>./baidunews\yule\2014083131843606.txt</li>
+			<li>./baidunews\yule\2014083134.txt</li>
+			<li>./baidunews\yule\201408314060625572990.txt</li>
+			<li>./baidunews\yule\201408314086455.txt</li>
+			<li>./baidunews\yule\201408314086462.txt</li>
+			<li>./baidunews\yule\201408316547461.txt</li>
+			<li>./baidunews\yule\201408316547479.txt</li>
+			<li>./baidunews\yule\201408316547487.txt</li>
+			<li>./baidunews\yule\201408316547545.txt</li>
+			<li>./baidunews\yule\201408342550.txt</li>
 			<li>./baidunews\yule\201408354198.txt</li>
 			<li>./baidunews\yule\20140848972.txt</li>
 			<li>./baidunews\yule\20140848974.txt</li>
@@ -2097,7 +2948,13 @@
 			<li>./baidunews\yule\2577614.txt</li>
 			<li>./baidunews\yule\272242014082777914668518.txt</li>
 			<li>./baidunews\yule\27346.txt</li>
+			<li>./baidunews\yule\3231408313800.txt</li>
+			<li>./baidunews\yule\3231408315649.txt</li>
+			<li>./baidunews\yule\325140831120841.txt</li>
+			<li>./baidunews\yule\3271408317011431.txt</li>
+			<li>./baidunews\yule\3271408318348.txt</li>
 			<li>./baidunews\yule\36520140828014195817.txt</li>
+			<li>./baidunews\yule\36520140831014200228.txt</li>
 			<li>./baidunews\yule\373252.txt</li>
 			<li>./baidunews\yule\38936.txt</li>
 			<li>./baidunews\yule\38946.txt</li>
@@ -2109,6 +2966,12 @@
 			<li>./baidunews\yule\468841.txt</li>
 			<li>./baidunews\yule\470391.txt</li>
 			<li>./baidunews\yule\470401.txt</li>
+			<li>./baidunews\yule\474051.txt</li>
+			<li>./baidunews\yule\474111.txt</li>
+			<li>./baidunews\yule\474181.txt</li>
+			<li>./baidunews\yule\474191.txt</li>
+			<li>./baidunews\yule\618201408201408315619893.txt</li>
+			<li>./baidunews\yule\61837061201408201408315619971.txt</li>
 			<li>./baidunews\yule\735894966332.txt</li>
 			<li>./baidunews\yule\820140828107461427.txt</li>
 			<li>./baidunews\yule\820140828107491789.txt</li>

@@ -37,6 +37,7 @@ class BaijiaNews(object):
 		if self.codedetect != 'utf-8' and self.codedetect != 'gbk' and self.codedetect !='GB2312':
 			pass
 		else:
+			myPage = myPage.replace(u'\u30fb', u'')
 			pattern =  re.compile(r'<h3>.*?</h3>',re.S)
 			result = pattern.findall(myPage)
 			list_length = len(result)
@@ -90,9 +91,11 @@ class BaijiaNews(object):
 			if self.codedetect != 'utf-8' and self.codedetect != 'gbk' and self.codedetect !='GB2312':
 				continue
 			else:
-				myPage = myPage.replace(u"\u2022", u" ")
-				myPage = myPage.replace(u"\u200b", u" ")
-				# myPage = myPage.replace(u'\u3000', u'')
+				myPage = myPage.replace(u'\ue844', u'')
+				myPage = myPage.replace(u'\u30fb', u'')
+				myPage = myPage.replace(u'\u3000', u'')
+				myPage = myPage.replace(u'\u2022', u'')	
+				myPage = myPage.replace(u'\u200b', u'')
 				pattern = re.compile(r'<title>.*?</title>',re.M)
 				match = pattern.search(myPage)
 				if match:

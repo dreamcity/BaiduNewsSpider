@@ -90,8 +90,11 @@ class GuoNeiNews(object):
 			if self.codedetect != 'utf-8' and self.codedetect != 'gbk' and self.codedetect !='GB2312':
 				continue
 			else:
+				myPage = myPage.replace(u'\ue844', u'')
 				myPage = myPage.replace(u'\u30fb', u'')
 				myPage = myPage.replace(u'\u3000', u'')
+				myPage = myPage.replace(u'\u2022', u'')	
+				myPage = myPage.replace(u'\u200b', u'')
 				patten = re.compile(r'<title>.*?</title>',re.M)
 				match = patten.search(myPage)
 				if match:
