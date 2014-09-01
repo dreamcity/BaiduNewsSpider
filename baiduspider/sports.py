@@ -87,6 +87,10 @@ class SportsNews(object):
 				pos = self.articlelink.index(link)
 				del(self.articlelink[pos])
 				continue
+			except ConnectionAbortedError :
+				pos = self.articlelink.index(link)
+				del(self.articlelink[pos])
+				continue
 			if self.codedetect != 'utf-8' and self.codedetect != 'gbk' and self.codedetect !='GB2312':
 				continue
 			else:
